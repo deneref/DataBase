@@ -1,0 +1,1000 @@
+ :Zaporizhzhe National University :Ukraine :Ukranian
+ :West Pomeranian Business School in Szczecin :Poland :Polish
+ :Community College System of New Hampshire :USA :English
+ :Zaporizhzhe National Technical University :Ukraine :Ukranian
+ :DUT MMI - Université Bordeaux Montaigne :France :French
+ :Universidad Internacional Isabel I :Spain :Spanish
+ :McPherson College :USA :English
+ :Centro Universitario Villanueva :Spain :Spanish
+ :University of Vaasa :Finland :Finnish
+ :Ashford University :USA :English
+ :Universidad de Vigo :Spain :Spanish
+ :University of Tartu :Estonia :Estonian
+ :Universitat de Vic :Spain :Spanish
+ :Vinnica National Technical University :Ukraine :Ukranian
+ :Institut Sup'Biotech de Paris :France :French
+ :ESME Sudria :France :French
+ :Tallinn University of Technology :Estonia :Estonian
+ :National Pirogov Memorial Medical University :Ukraine :Ukranian
+ :University of Trieste :Italy :Italian
+ :University of Verona :Italy :Italian
+ :Neumann University :USA :English
+ :University of Venice :Italy :Italian
+ :Ecole des technologies numeriques appliquees :France :French
+ :Volyn National University Lesja Ukrainka :Ukraine :Ukranian
+ :Tallinn University :Estonia :Estonian
+ :University of Aquila :Italy :Italian
+ :Rogers State University :USA :English
+ :Institut polytechnique des sciences avancees :France :French
+ :Brescia University :USA :English
+ :University of Applied Sciences :Estonia :Estonian
+ :Moscow University for Industry and Finance “Synergy” :Russia :Russian
+ :University of Urbino :Italy :Italian
+ :University of Turku :Finland :Finnish
+ :Polish Open University in Warsaw (WSZ/POU) :Poland :Polish
+ :National University of Food Technologies :Ukraine :Ukranian
+ :Universidad de Valencia :Spain :Spanish
+ :Universidad de Valladolid :Spain :Spanish
+ :Gdansk Management College :Poland :Polish
+ :Universidad de Sevilla :Spain :Spanish
+ :University of Management and Marketing :Poland :Polish
+ :Polk State College :USA :English
+ :Estonian Academy of Security Sciences :Estonia :Estonian
+ :Ecole Pour l'Informatique et les Techniques Avancees :France :French
+ :School of Banking and Management in Cracow :Poland :Polish
+ :Tartu Health Care College :Estonia :Estonian
+ :Estonian University of Life Sciences :Estonia :Estonian
+ :Ecole pour l'Informatique et les nouvelles Technologies :France :French
+ :University of Tampere :Finland :Finnish
+ :Estonian Academy of Music and Theatre :Estonia :Estonian
+ :Wayland Baptist University :USA :English
+ :Alaska Pacific University :USA :English
+ :Kodiak College :USA :English
+ :Yakutsk State University :Russia :Russian
+ :University of Udine :Italy :Italian
+ :Universidad de Santiago de Compostela :Spain :Spanish
+ :Estonian Business School :Estonia :Estonian
+ :National University of Shipbuilding :Ukraine :Ukranian
+ :Yaroslavl State Technical University :Russia :Russian
+ :Yaroslavl State Pedagogical University :Russia :Russian
+ :University of Insurance and Banking in Warsaw :Poland :Polish
+ :Viterbo State University :Italy :Italian
+ :Pedagogical University of Zielona Gora :Poland :Polish
+ :Yaroslavl State Medical Academy :Russia :Russian
+ :University of Turin :Italy :Italian
+ :Mat-Su College :USA :English
+ :University of Lapland :Finland :Finnish
+ :University of Kuopio :Finland :Finnish
+ :Universidad de Salamanca :Spain :Spanish
+ :Kenai Peninsula College :USA :English
+ :University of Trento :Italy :Italian
+ :University of Teramo :Italy :Italian
+ :Universitat Rovira I Virgili Tarragona :Spain :Spanish
+ :Pedagogical University of the Polish Association for Adult Education in Warsaw :Poland :Polish
+ :Estonian Academy of Arts :Estonia :Estonian
+ :University of Art and Design Helsinki :Finland :Finnish
+ :University of Italian Studies for Foreigners of Siena :Italy :Italian
+ :University of Italian Studies for Foreigners of Perugia :Italy :Italian
+ :Tampere University of Technology :Finland :Finnish
+ :Turku School of Economics and Business Administration :Finland :Finnish
+ :University of Michigan-Flint :USA :English
+ :Université Robert Schuman (Strasbourg III) :France :French
+ :National University of Ostroh Academy :Ukraine :Ukranian
+ :Trinity Bible College & Graduate School :USA :English
+ :Universitat Rámon Llull :Spain :Spanish
+ :Uzhgorod National University :Ukraine :Ukranian
+ :University of Sassari :Italy :Italian
+ :Université Louis Pasteur (Strasbourg I) :France :French
+ :Universidad Rey Juan Carlos :Spain :Spanish
+ :University Institute of Teacher Training "Suor Orsola Benincasa" :Italy :Italian
+ :Vladivostock State University of Economics :Russia :Russian
+ :Tampere Polytechnic :Finland :Finnish
+ :Voronezh State University :Russia :Russian
+ :Ecole Nationale Supérieure de Physique de Strasbourg :France :French
+ :National Taras Shevchenko University of Kiev :Ukraine :Ukranian
+ :Maria Grzegorzewska College for Special Education :Poland :Polish
+ :Ecole Nationale Supérieure de Physique de Grenoble :France :French
+ :University of Siena :Italy :Italian
+ :Universidad Politécnica de Valencia :Spain :Spanish
+ :Kherson State University :Ukraine :Ukranian
+ :Theatre Academy Finland :Finland :Finnish
+ :Pedagogical University of Slupsk :Poland :Polish
+ :Universidad Pontificia de Salamanca :Spain :Spanish
+ :Volgograd State Technical University :Russia :Russian
+ :Volgograd State Pedagogical University :Russia :Russian
+ :Vyatka State Pedagogical University :Russia :Russian
+ :Pedagogical University of Krakow :Poland :Polish
+ :Kharkiv National University :Ukraine :Ukranian
+ :Sibelius Academy :Finland :Finnish
+ :Swedish School of Economics and Business Administration, Finland :Finland :Finnish
+ :Western Wyoming Community College :USA :English
+ :Universidad Pablo de Olavide :Spain :Spanish
+ :South Carelian Polytechnic :Finland :Finnish
+ :Universidad Politécnica de Madrid :Spain :Spanish
+ :Voronezh State Pedagogical University :Russia :Russian
+ :Satakunta University Of Applied Scinces :Finland :Finnish
+ :Voronezh State Medical Academy :Russia :Russian
+ :Scandinavian Art and Business Institute :Finland :Finnish
+ :Universitat Pompeu Fabra :Spain :Spanish
+ :Ecole Nationale Superieure d'Informatique et de Mathematiques Appliquees de Grenoble :France :French
+ :Rovaniemi University of Applied Sciences :Finland :Finnish
+ :Leon Kozminski Academy of Entrepreneurship and Mangement in Warsaw :Poland :Polish
+ :Sheridan College :USA :English
+ :National University of Internal Affairs :Ukraine :Ukranian
+ :Ukrainian Academy of Pharmacy :Ukraine :Ukranian
+ :East-Siberian State University :Russia :Russian
+ :Northwest College :USA :English
+ :Universidad Politécnica de Cartagena :Spain :Spanish
+ :National University of Kiev-Mohyla Academy :Ukraine :Ukranian
+ :Pedagogical University of Czestochowa :Poland :Polish
+ :Laramie County Community College :USA :English
+ :Ecole Nationale Supérieure des Arts et Industries de Strasbourg :France :French
+ :Pedagogical University of Bydgoszcz :Poland :Polish
+ :East-Siberian State Institute of Culture :Russia :Russian
+ :University of Gastronomic Sciences :Italy :Italian
+ :Ukrainian Medical Stomatological Academy :Ukraine :Ukranian
+ :Eastern Wyoming College :USA :English
+ :Universidad Pontificia Comillas :Spain :Spanish
+ :Universidad Politécnica de Cataluna :Spain :Spanish
+ :Vaasa University of Applied Sciences :Finland :Finnish
+ :Voronezh State Agricultural University :Russia :Russian
+ :Central Wyoming College :USA :English
+ :Universitat Oberta de Catalunya :Spain :Spanish
+ :Casper College :USA :English
+ :Technological University of Podillya :Ukraine :Ukranian
+ :Universidad Antonio de Nebrija :Spain :Spanish
+ :Wisconsin Indianhead Technical College :USA :English
+ :University of Sannio :Italy :Italian
+ :Maritime University in Szczecin :Poland :Polish
+ :Universidad de Zaragoza :Spain :Spanish
+ :Western Technical College :USA :English
+ :Waukesha County Technical College :USA :English
+ :University of Oulu :Finland :Finnish
+ :Oulu Polytechnic :Finland :Finnish
+ :Academy of International Economic and Political Relations, Gdynia :Poland :Polish
+ :Ecole Nationale du Génie de l'Eau et de l'Environnement de Strasbourg :France :French
+ :Khmelnitsky National University :Ukraine :Ukranian
+ :Gdynia Maritime Academy :Poland :Polish
+ :University of Wisconsin Colleges :USA :English
+ :Southwest Wisconsin Technical College :USA :English
+ :University of Information Technology and Management in Rzeszow :Poland :Polish
+ :Iniciativa Universidad del Atlantico :Spain :Spanish
+ :Universidad de La Rioja :Spain :Spanish
+ :Universidad de Oviedo :Spain :Spanish
+ :Lappeenranta University of Technology :Finland :Finnish
+ :Laurea University of Applied Sciences :Finland :Finnish
+ :Warsaw School of Information Technology :Poland :Polish
+ :Voronezh State Technical University :Russia :Russian
+ :Università Pontificia Salesiana :Italy :Italian
+ :Lahti Polytechnic :Finland :Finnish
+ :Volgograd State University :Russia :Russian
+ :College of Computer Science in Lodz :Poland :Polish
+ :Academy of Fine Arts :Finland :Finnish
+ :Baltic State Technical University :Russia :Russian
+ :University of Jyväskylä :Finland :Finnish
+ :Northeast Wisconsin Technical College :USA :English
+ :University of Joensuu :Finland :Finnish
+ :Ryszard Lazarski University of Commerce and Law in Warsaw :Poland :Polish
+ :Universidad de León :Spain :Spanish
+ :Northcentral Technical College :USA :English
+ :Helsinki University of Technology :Finland :Finnish
+ :Aleksander Gieysztor School of Humanities in Pultusk :Poland :Polish
+ :Nicolet Area Technical College :USA :English
+ :University of Salerno :Italy :Italian
+ :Vladimir State University :Russia :Russian
+ :Helsinki School of Economics and Business Administration :Finland :Finnish
+ :University of Helsinki :Finland :Finnish
+ :Third University of Rome :Italy :Italian
+ :University of Roma "Tor Vergata" :Italy :Italian
+ :Ecole Européenne de Chimie, Polymères et Matériaux de Strasbourg :France :French
+ :Moraine Park Technical College :USA :English
+ :Ternopil State Ivan Pul'uj Technical University :Ukraine :Ukranian
+ :Milwaukee Area Technical College :USA :English
+ :University of Finance and Management in Bialystok :Poland :Polish
+ :EVTEK University of Applied Sciences :Finland :Finnish
+ :Higher School o Business in Tarnow :Poland :Polish
+ :University of Roma "La Sapienza" :Italy :Italian
+ :Poznan School of Banking :Poland :Polish
+ :Mid-​State Technical College :USA :English
+ :Taurida National V.I.Vernadsky University :Ukraine :Ukranian
+ :Madison Area Technical College :USA :English
+ :Universidad de Cantabria :Spain :Spanish
+ :University of Reggio Calabria :Italy :Italian
+ :NGO Vladikavkaz Institute of Economics, Management, and Law :Russia :Russian
+ :Universidad Internacional de Andalucía, Sede La Rábida :Spain :Spanish
+ :University of Pavia :Italy :Italian
+ :Voronezh State Academy of Technology :Russia :Russian
+ :Universidad Abierta Interactiva :Spain :Spanish
+ :Ecole Nationale Vétérinaire de Nantes :France :French
+ :Ternopil Academy of National Economy :Ukraine :Ukranian
+ :Lakeshore Technical College :USA :English
+ :University of Parma :Italy :Italian
+ :University of Pisa :Italy :Italian
+ :University of Perugia :Italy :Italian
+ :Ecole Nationale Vétérinaire de Lyon :France :French
+ :Lac Courte Oreilles Ojibwa Community College :USA :English
+ :Higher School o Business/National Louis University(WSB/NLU) in Nowy Sacz :Poland :Polish
+ :Pawel Wlodkowic University College in Plock :Poland :Polish
+ :Sumy State University :Ukraine :Ukranian
+ :East Ukrainian National University :Ukraine :Ukranian
+ :Universidad Loyola Andalucía :Spain :Spanish
+ :Ecole Nationale Vétérinaire d'Alfort :France :French
+ :University of Wamia and Masuria in Olsztyn :Poland :Polish
+ :Universidad Internacional de Andalucía, Sede Antonio Machado de Baeza :Spain :Spanish
+ :Volgograd State University of Architecture and Civil Engineering (VolgGASU) :Russia :Russian
+ :Sevastopol National Technical University :Ukraine :Ukranian
+ :Sumy National Agrarian University :Ukraine :Ukranian
+ :Poltava University of Consumer Cooperatives in Ukraine :Ukraine :Ukranian
+ :Gateway Technical College :USA :English
+ :Université de Versailles Saint-Quentin-en-Yvelines :France :French
+ :Fox Valley Technical College :USA :English
+ :University of Padua :Italy :Italian
+ :Precarpathian University :Ukraine :Ukranian
+ :University of Warsaw :Poland :Polish
+ :Poltava National Technical University :Ukraine :Ukranian
+ :Chippewa Valley Technical College :USA :English
+ :Blackhawk Technical College :USA :English
+ :Diaconia University of Applied Sciences :Finland :Finnish
+ :Central Ostrobothnia University of Applied Sciences :Finland :Finnish
+ :Volgograd State Academy of Physical Education :Russia :Russian
+ :Université de Technologie de Troyes :France :French
+ :Universidad de Extremadura :Spain :Spanish
+ :Odessa National Marine University :Ukraine :Ukranian
+ :University of Palermo :Italy :Italian
+ :Abo Akademi University :Finland :Finnish
+ :Universidad Nacional de Educación a Distancia :Spain :Spanish
+ :West Virginia Northern Community College :USA :English
+ :Southern West Virginia Community and Technical College :USA :English
+ :Université de Technologie de Compiègne :France :French
+ :Pierpont Community and Technical College :USA :English
+ :University of Technology and Life Sciences :Poland :Polish
+ :Medical Academy Karol Marcinkowski in Poznan :Poland :Polish
+ :New River Community and Technical College :USA :English
+ :Odessa National Academy of Food Technologies :Ukraine :Ukranian
+ :Mountwest Community and Technical College :USA :English
+ :Kanawha Valley Community and Technical College :USA :English
+ :Huntington Junior College :USA :English
+ :Université de Technologie de Belfort Montbéliard :France :French
+ :Russian Customs Academy, Vladivostok Branch :Russia :Russian
+ :Ulyanovsk Higher School of Civil Aviation :Russia :Russian
+ :Eastern West Virginia Community and Technical College :USA :English
+ :Bridgemont Community and Technical College :USA :English
+ :Odessa National Polytechnic University :Ukraine :Ukranian
+ :Odessa National I.I. Mecnikov University :Ukraine :Ukranian
+ :Odessa State Academy of Construction and Architecture :Ukraine :Ukranian
+ :National Transport University :Ukraine :Ukranian
+ :Blue Ridge Community and Technical College :USA :English
+ :Yakima Valley Community College :USA :English
+ :Whatcom Community College :USA :English
+ :University of Silesia :Poland :Polish
+ :University of Insubria :Italy :Italian
+ :Universidad de Navarra :Spain :Spanish
+ :University Institute of Naval Studies :Italy :Italian
+ :Ural Gorkij State University :Russia :Russian
+ :Université des Sciences Humaines (Strasbourg II) :France :French
+ :Ural State University of Economics :Russia :Russian
+ :Wenatchee Valley College :USA :English
+ :University of Wroclaw :Poland :Polish
+ :Walla Walla Community College :USA :English
+ :Universidad Pública de Navarra :Spain :Spanish
+ :Tacoma Community College :USA :English
+ :University of Szczecin :Poland :Polish
+ :Ural State Technical University :Russia :Russian
+ :University of Naples Federico II :Italy :Italian
+ :National Pedagogical University M. Dragomanov :Ukraine :Ukranian
+ :Universidad Miguel Hernández de Elche :Spain :Spanish
+ :Ural State Academy of Mining and Geology :Russia :Russian
+ :Universidad de Murcia :Spain :Spanish
+ :Ural State Academy of Law :Russia :Russian
+ :Spokane Falls Community College :USA :English
+ :National Mining University :Ukraine :Ukranian
+ :Spokane Community College :USA :English
+ :National Medical University O.O. Bogomolets :Ukraine :Ukranian
+ :Université de Provence (Aix-Marseille I) :France :French
+ :Ural State Forestry Technical Academy :Russia :Russian
+ :Université Paris Sud (Paris XI) :France :French
+ :South Puget Sound Community College :USA :English
+ :Ural State Conservatory :Russia :Russian
+ :National Metallurgical Academy of Ukraine :Ukraine :Ukranian
+ :National Agricultural University :Ukraine :Ukranian
+ :Skagit Valley College :USA :English
+ :Shoreline Community College :USA :English
+ :Université Paul Sabatier (Toulouse III) :France :French
+ :Renton Technical College :USA :English
+ :Pierce College at Puyallup :USA :English
+ :Pedagogical University of Rzeszow :Poland :Polish
+ :National Aviation Univesity :Ukraine :Ukranian
+ :Second University of Naples :Italy :Italian
+ :Universidad de Málaga :Spain :Spanish
+ :Lower Columbia College :USA :English
+ :Ural State Academy of Railway Transport :Russia :Russian
+ :Lviv National Medical Univeristy :Ukraine :Ukranian
+ :Université Pierre Mendes-France (Grenoble II) :France :French
+ :Highline Community College :USA :English
+ :Université de Picardie Jules-Verne :France :French
+ :Green River Community College :USA :English
+ :Ural State Academy of Architecture and Arts :Russia :Russian
+ :Grays Harbor College :USA :English
+ :Université Panthéon-Assas (Paris II) :France :French
+ :Everett Community College :USA :English
+ :University of Gdansk :Poland :Polish
+ :University of Molise :Italy :Italian
+ :Universidad de Las Palmas de Gran Canaria :Spain :Spanish
+ :Nicolaus Copernicus University of Torun :Poland :Polish
+ :Edmonds Community College :USA :English
+ :University of Milan :Italy :Italian
+ :Cheljabinsk University of Agricultural Engineering :Russia :Russian
+ :Université Paris Nanterre (Paris X) :France :French
+ :Clover Park Technical College :USA :English
+ :Université de Valenciennes et du Hainaut-Cambrésis :France :French
+ :Clark College :USA :English
+ :Ecole Nationale Supérieure d'Ingénieurs en Mécanique et Energétique de Valenciennes :France :French
+ :University of Milan - Bicocca :Italy :Italian
+ :University of Opole :Poland :Polish
+ :Odessa National Maritime Academy :Ukraine :Ukranian
+ :University of Lodz :Poland :Polish
+ :Nizhny Novgorod State University :Russia :Russian
+ :Cascadia Community College :USA :English
+ :Universidad de La Laguna :Spain :Spanish
+ :Université de Bretagne Sud :France :French
+ :Maria Curie-Sklodowska University Lublin :Poland :Polish
+ :Yaroslavl State University :Russia :Russian
+ :Universitat Jaume I de Castellón :Spain :Spanish
+ :Big Bend Community College :USA :English
+ :Vologda State Pedagogical University :Russia :Russian
+ :Bellingham Technical College :USA :English
+ :Université François Rabelais de Tours :France :French
+ :Tver State University :Russia :Russian
+ :University of Messina :Italy :Italian
+ :Bates Technical College :USA :English
+ :Wytheville Community College :USA :English
+ :Cardinal Stefan Wyszynski University in Warsaw :Poland :Polish
+ :Université de Toulouse :France :French
+ :Virginia Western Community College :USA :English
+ :Omsk State University :Russia :Russian
+ :University of Macerata :Italy :Italian
+ :Udmurt State University :Russia :Russian
+ :Universidad de Jaén :Spain :Spanish
+ :Jagiellonian University Cracow :Poland :Polish
+ :Université de Toulouse-le-Mirail (Toulouse II) :France :French
+ :Link Campus University of Malta :Italy :Italian
+ :St. Petersburg State Technical University :Russia :Russian
+ :Dubna International University for Nature, Society and Man :Russia :Russian
+ :Universidad Internacional Menéndez Pelayo :Spain :Spanish
+ :Luhansk State Medical University :Ukraine :Ukranian
+ :Lviv Polytechnic National University :Ukraine :Ukranian
+ :Virginia Highlands Community College :USA :English
+ :Luhansk Taras Shevchenko National Pedagogical University :Ukraine :Ukranian
+ :Tidewater Community College :USA :English
+ :Université des Sciences Sociales (Toulouse I) :France :French
+ :Université du Sud, Toulon et Var :France :French
+ :Thomas Nelson Community College :USA :English
+ :Southwest Virginia Community College :USA :English
+ :Universitat Internacional de Catalunya :Spain :Spanish
+ :Universitat de les Illes Balears :Spain :Spanish
+ :University of Lecce :Italy :Italian
+ :Southside Virginia Community College :USA :English
+ :Richard Bland College of the College of William and Mary :USA :English
+ :Rappahannock Community College :USA :English
+ :Piedmont Virginia Community College :USA :English
+ :Universidad Internacional de Andalucía :Spain :Spanish
+ :Pontifica Università Gregoriana :Italy :Italian
+ :Universidad de Huelva :Spain :Spanish
+ :Paul D Camp Community College :USA :English
+ :Patrick Henry Community College :USA :English
+ :Northern Virginia Community College :USA :English
+ :University of Genoa :Italy :Italian
+ :Ulyanovsk State University :Russia :Russian
+ :Universidad de Granada :Spain :Spanish
+ :New River Community College :USA :English
+ :Universidad Francisco de Vitoria :Spain :Spanish
+ :Mountain Empire Community College :USA :English
+ :University of Florence :Italy :Italian
+ :University of Foggia :Italy :Italian
+ :Universidad Europea de Madrid :Spain :Spanish
+ :Universitat de Lleida :Spain :Spanish
+ :Kharkiv National University of Radio Electronics :Ukraine :Ukranian
+ :Université Jean Monnet :France :French
+ :Lord Fairfax Community College :USA :English
+ :J Sargeant Reynolds Community College :USA :English
+ :John Tyler Community College :USA :English
+ :Ulyanovsk State Technical University :Russia :Russian
+ :Kiev Slavonic University :Ukraine :Ukranian
+ :Ulyanovsk State Pedagogical University :Russia :Russian
+ :Universidad de Gerona :Spain :Spanish
+ :Germanna Community College :USA :English
+ :Ukhta State Technical University :Russia :Russian
+ :Université de Savoie :France :French
+ :University of Bialystok :Poland :Polish
+ :University of Ferrara :Italy :Italian
+ :Ulyanovsk State Agricultural Academy :Russia :Russian
+ :Universidad de La Coruña :Spain :Spanish
+ :Kharkiv State Technical University of Construction and Architecture :Ukraine :Ukranian
+ :Université de Rouen - Haute Normandie :France :French
+ :European School of Economics :Italy :Italian
+ :Eastern Shore Community College :USA :English
+ :Kharkiv State Medical University :Ukraine :Ukranian
+ :University of Catania :Italy :Italian
+ :Universidad Católica de Valencia :Spain :Spanish
+ :Yugra State University :Russia :Russian
+ :Ufa State Aviation Technical University :Russia :Russian
+ :Kiev School Of Economics :Ukraine :Ukranian
+ :Józef Tyszkiewicz College of Business and Computer Science in Bielsko-Biala :Poland :Polish
+ :Danville Community College :USA :English
+ :KROK Economics and Law University :Ukraine :Ukranian
+ :University of Chieti :Italy :Italian
+ :Université Rennes I :France :French
+ :Universidad de Córdoba :Spain :Spanish
+ :Dabney S Lancaster Community College :USA :English
+ :Central Virginia Community College :USA :English
+ :Université de Reims Champagne-Ardenne :France :French
+ :Blue Ridge Community College :USA :English
+ :Community College of Vermont :USA :English
+ :Salt Lake Community College :USA :English
+ :Latter-day Saints Business College :USA :English
+ :Wharton County Junior College :USA :English
+ :Western Texas College :USA :English
+ :National Technical University (Kiev Politechnical Institute) :Ukraine :Ukranian
+ :Catholic University of the Sacred Heart :Italy :Italian
+ :Universidad Complutense de Madrid :Spain :Spanish
+ :Weatherford College :USA :English
+ :St. Petersburg State University of Economics and Finance :Russia :Russian
+ :Victoria College :USA :English
+ :Université de Poitiers :France :French
+ :National Technical University (Kharkiv Polytechnical Institute) :Ukraine :Ukranian
+ :Kiev National University of Construction and Architecture :Ukraine :Ukranian
+ :Vernon College :USA :English
+ :Tyler Junior College :USA :English
+ :University of Cassino :Italy :Italian
+ :Trinity Valley Community College :USA :English
+ :Texas State Technical College-​West Texas :USA :English
+ :Texas State Technical College-​Waco :USA :English
+ :Texas State Technical College-​Marshall :USA :English
+ :Université de Perpignan :France :French
+ :Kiev National Economic University :Ukraine :Ukranian
+ :Texas State Technical College-​Harlingen :USA :English
+ :Petro Mohyla Black Sea State University :Ukraine :Ukranian
+ :Campus Bio-Medico University of Rome :Italy :Italian
+ :National Aerospace University Kharkov Aviation Institute :Ukraine :Ukranian
+ :Technical University of Szczecin :Poland :Polish
+ :Technical University of Koszalin :Poland :Polish
+ :Ural Academy of Public Administration :Russia :Russian
+ :Université de Pau et des Pays de l'Adour :France :French
+ :Tuva State University :Russia :Russian
+ :Texarkana College :USA :English
+ :Temple College :USA :English
+ :St Philip's College :USA :English
+ :Universidad de Castilla La Mancha :Spain :Spanish
+ :Kharkiv State Transport Technical University :Ukraine :Ukranian
+ :Technical University of Kielce :Poland :Polish
+ :Southwest Texas Junior College :USA :English
+ :South Plains College :USA :English
+ :State Pedagogical University in Kryvyi Rih :Ukraine :Ukranian
+ :University of Camerino :Italy :Italian
+ :San Antonio College :USA :English
+ :University of Calabria :Italy :Italian
+ :Ivano-Frankivsk National University of Oli and Gas :Ukraine :Ukranian
+ :Richland College :USA :English
+ :Ranger College :USA :English
+ :Paris Junior College :USA :English
+ :Panola College :USA :English
+ :Kharkiv National University of Economics :Ukraine :Ukranian
+ :Tomsk State University of Control Systems and Radioelectronics :Russia :Russian
+ :Palo Alto College :USA :English
+ :Universidad Cardenal Herrera-CEU :Spain :Spanish
+ :Lviv National University Ivan Franko :Ukraine :Ukranian
+ :Université Vincennes Saint-Denis (Paris VIII) :France :French
+ :Odessa College :USA :English
+ :Northwest Vista College :USA :English
+ :Warsaw School of Social Psychology :Poland :Polish
+ :Silesian Academy of Medicine in Katowice :Poland :Polish
+ :Université René Descartes (Paris V) :France :French
+ :University of Cagliari :Italy :Italian
+ :Warsaw School of Economics :Poland :Polish
+ :Southern Ural State University :Russia :Russian
+ :North Lake College :USA :English
+ :Free University of Bozen :Italy :Italian
+ :Agricultural University of Warsaw :Poland :Polish
+ :Northeast Texas Community College :USA :English
+ :North Central Texas College :USA :English
+ :Christian Theological Academy in Warszaw :Poland :Polish
+ :Navarro College :USA :English
+ :Université Sorbonne-Nouvelle (Paris III) :France :French
+ :University of Brescia :Italy :Italian
+ :Universidad Católica de Ávila :Spain :Spanish
+ :McLennan Community College :USA :English
+ :University of Bologna :Italy :Italian
+ :Lone Star College System :USA :English
+ :Université Panthéon-Sorbonne (Paris I) :France :French
+ :Brjansk State Technical University :Russia :Russian
+ :Lee College :USA :English
+ :Ukrainian National Forestry University :Ukraine :Ukranian
+ :Laredo Community College :USA :English
+ :Lamar State College-​Port Arthur :USA :English
+ :Universidad Católica San Antonio :Spain :Spanish
+ :Lamar State College-​Orange :USA :English
+ :Ryazan State Pedagogical University :Russia :Russian
+ :Technical University of Zielona Gora :Poland :Polish
+ :Lamar Institute of Technology :USA :English
+ :Staszic Pila College :Poland :Polish
+ :Université Paris Nord (Paris XIII) :France :French
+ :Bocconi University :Italy :Italian
+ :Walcz College :Poland :Polish
+ :Kilgore College :USA :English
+ :Jacksonville College-​Main Campus :USA :English
+ :Alfred Nobel University of Economics and Law :Ukraine :Ukranian
+ :Howard College :USA :English
+ :Ludwik Solski State Academy of Theatre in Cracow :Poland :Polish
+ :University of Bergamo :Italy :Italian
+ :Tula State University :Russia :Russian
+ :Universidad de Cádiz :Spain :Spanish
+ :Basilicata University Potenza :Italy :Italian
+ :Houston Community College :USA :English
+ :Hill College :USA :English
+ :Grayson College :USA :English
+ :Galveston College :USA :English
+ :Tyumen State University :Russia :Russian
+ :Université Val-de-Marne (Paris XII) :France :French
+ :Technical University of Wroclaw :Poland :Polish
+ :Frank Phillips College :USA :English
+ :El Paso Community College :USA :English
+ :Dneprodzerzhinsk State Technical University :Ukraine :Ukranian
+ :El Centro College :USA :English
+ :Warsaw University of Technology :Poland :Polish
+ :Donetsk National University :Ukraine :Ukranian
+ :Universidad Carlos III de Madrid :Spain :Spanish
+ :Technical University of Poznan :Poland :Polish
+ :Poznan University of Life Sciences :Poland :Polish
+ :Donetsk National Technical University :Ukraine :Ukranian
+ :Tomsk State University :Russia :Russian
+ :Taganrog State University of Radioengineering :Russia :Russian
+ :Eastfield College :USA :English
+ :Universidad de Burgos :Spain :Spanish
+ :Del Mar College :USA :English
+ :Tomsk State University of Architecture and Building :Russia :Russian
+ :Pedagogical University of Kielce :Poland :Polish
+ :Technical University of Rzeszow :Poland :Polish
+ :Collin County Community College District :USA :English
+ :Technical University of Opole :Poland :Polish
+ :College of the Mainland :USA :English
+ :Silesian Technical University of Gliwice :Poland :Polish
+ :Université d'Orléans :France :French
+ :Universitat de Barcelona :Spain :Spanish
+ :Coastal Bend College :USA :English
+ :Donetsk State Medical University :Ukraine :Ukranian
+ :Clarendon College :USA :English
+ :Université de Nantes :France :French
+ :Cisco College :USA :English
+ :Université Nancy II :France :French
+ :Technical University of Lublin :Poland :Polish
+ :Université de Haute-Alsace :France :French
+ :Central Texas College :USA :English
+ :Tver State Technical University :Russia :Russian
+ :Cedar Valley College :USA :English
+ :Université Paul Valéry (Montpellier III) :France :French
+ :Brookhaven College :USA :English
+ :University of Bari :Italy :Italian
+ :Technical University of Lodz :Poland :Polish
+ :Blinn College :USA :English
+ :Angelina College :USA :English
+ :Technical University of Cracow :Poland :Polish
+ :Amarillo College :USA :English
+ :Université de Montpellier II :France :French
+ :Alvin Community College :USA :English
+ :Walters State Community College :USA :English
+ :University of Ancona :Italy :Italian
+ :Polish-Japanese Institute of Information Technology in Warsaw :Poland :Polish
+ :Universidad Alfonso X El Sabio :Spain :Spanish
+ :Volunteer State Community College :USA :English
+ :Tambov State Technical University :Russia :Russian
+ :Southwest Tennessee Community College :USA :English
+ :Roane State Community College :USA :English
+ :Pellissippi State Community College :USA :English
+ :Technical University of Gdansk :Poland :Polish
+ :Tomsk State Pedagogical University :Russia :Russian
+ :Universidad Autónoma de Madrid :Spain :Spanish
+ :Northeast State Community College :USA :English
+ :Motlow State Community College :USA :English
+ :Technical University of Czestochowa :Poland :Polish
+ :Université de Montpellier I :France :French
+ :Technical University of Bialystok :Poland :Polish
+ :Université de Marne la Vallée :France :French
+ :Tyumen State University of Gas and Oil :Russia :Russian
+ :Dnepropetrovsk National University :Ukraine :Ukranian
+ :Tver State Medical Academy :Russia :Russian
+ :John A Gupton College :USA :English
+ :Université de Metz :France :French
+ :Université de la Méditerranée (Aix Marseille II) :France :French
+ :Jackson State Community College :USA :English
+ :Université Jean Moulin (Lyon III) :France :French
+ :Pomeranian Academy of Medicine in Szczecin :Poland :Polish
+ :Université Lumiére (Lyon II) :France :French
+ :Tomsk Polytechnic University :Russia :Russian
+ :Higher School of University and Advanced Studies Pisa :Italy :Italian
+ :Moscow University Touro :Russia :Russian
+ :Teacher Training College of Revalidation, Rehabilitation and Physical Education :Poland :Polish
+ :School of Education Pisa :Italy :Italian
+ :Universidad de Almería :Spain :Spanish
+ :Togliatti State University :Russia :Russian
+ :Timirjazev Moscow Academy of Agricultutre :Russia :Russian
+ :International Higher School for Advanced Studies Trieste :Italy :Italian
+ :Dyersburg State Community College :USA :English
+ :Technical University of Radom :Poland :Polish
+ :Columbia State Community College :USA :English
+ :Cleveland State Community College :USA :English
+ :Yaroslavl State Theatre Institute :Russia :Russian
+ :Fondazione Sacro Cuore :Italy :Italian
+ :Université Claude Bernard (Lyon I) :France :French
+ :Université de La Rochelle :France :French
+ :Lazarski School of Commerce and Law :Poland :Polish
+ :Chattanooga State Community College :USA :English
+ :Tyumen State Agricultural Academy :Russia :Russian
+ :Taganrog State Pedagogical Institute :Russia :Russian
+ :Dnepropetrovsk National University of Railway Transport :Ukraine :Ukranian
+ :Catholic University of Lublin :Poland :Polish
+ :St. Petersburg State Theatre Arts Academy :Russia :Russian
+ :St. Petersburg State University of Telecommunication :Russia :Russian
+ :Crimea State Medical University :Ukraine :Ukranian
+ :Western Dakota Technical Institute :USA :English
+ :St. Petersburg State University of Technology and Design :Russia :Russian
+ :Southeast Technical Institute :USA :English
+ :Chernivci National University :Ukraine :Ukranian
+ :Sisseton Wahpeton College :USA :English
+ :Surgut State University :Russia :Russian
+ :Mitchell Technical Institute :USA :English
+ :Pontificia Università della Santa Croce :Italy :Italian
+ :Lake Area Technical Institute :USA :English
+ :St. Petersburg State University of Aerospace Instrumentation :Russia :Russian
+ :Kilian Community College :USA :English
+ :Bila Cerkva State Agrarian University :Ukraine :Ukranian
+ :Pontificia Università Lateranense :Italy :Italian
+ :Siberian State Transport University :Russia :Russian
+ :Andrzej Frycz Modrzewski Cracow College :Poland :Polish
+ :York Technical College :USA :English
+ :Universidad de Alcalá de Henares :Spain :Spanish
+ :Lipeck State Technical University :Russia :Russian
+ :Universidad de Alicante :Spain :Spanish
+ :Odessa State Medical University :Ukraine :Ukranian
+ :Polytechnic Institute of Turin :Italy :Italian
+ :Stavropol State University :Russia :Russian
+ :Williamsburg Technical College :USA :English
+ :Universitat Autónoma de Barcelona :Spain :Spanish
+ :Université de Lorraine :France :French
+ :Ukrainian Academy of Banking :Ukraine :Ukranian
+ :Université du Littoral Cote d'Opale :France :French
+ :French Institute of Management :Poland :Polish
+ :Katowice School of Economics :Poland :Polish
+ :Silesian School of Economics and Languages :Poland :Polish
+ :Schiller International University, Madrid :Spain :Spanish
+ :State Film, Television and Theatre Higher School Leon Schiller in Lodz :Poland :Polish
+ :Polytechnic Institute of Milan :Italy :Italian
+ :Trident Technical College :USA :English
+ :European Academy of Arts in Warsaw :Poland :Polish
+ :Tri-​County Technical College :USA :English
+ :Technical College of the Lowcountry :USA :English
+ :Moscow State University of Technology (Stankin) :Russia :Russian
+ :Polytechnic Institute of Bari :Italy :Italian
+ :Pontificio Istituto Orientale :Italy :Italian
+ :Spartanburg Methodist College :USA :English
+ :Yorker International University, Milano :Italy :Italian
+ :Spartanburg Community College :USA :English
+ :Piedmont Technical College :USA :English
+ :Orangeburg Calhoun Technical College :USA :English
+ :Northeastern Technical College :USA :English
+ :Samara State University :Russia :Russian
+ :Midlands Technical College :USA :English
+ :Syktyvkar State University :Russia :Russian
+ :Université Charles-de-Gaulle (Lille III) :France :French
+ :Samara State Technical University :Russia :Russian
+ :Horry-​Georgetown Technical College :USA :English
+ :Greenville Technical College :USA :English
+ :Florence-​Darlington Technical College :USA :English
+ :Denmark Technical College :USA :English
+ :Central Carolina Technical College :USA :English
+ :Community College of Rhode Island :USA :English
+ :Westmoreland County Community College :USA :English
+ :Valley Forge Military Academy and College :USA :English
+ :University of Pittsburgh-​Titusville :USA :English
+ :La Salle - Universitat Rámon Llull :Spain :Spanish
+ :University of Lower Silesia of the Association for the Advancement of Education in Wroclaw. :Poland :Polish
+ :Saratov State Technical University :Russia :Russian
+ :Samara State University of Teacher Training :Russia :Russian
+ :Thaddeus Stevens College of Technology :USA :English
+ :NABA - Nuova Accademia di Belle Arti, Milan :Italy :Italian
+ :Reading Area Community College :USA :English
+ :Free University "Maria Santissima Assunta" :Italy :Italian
+ :Collegium Civitas :Poland :Polish
+ :Free International University of Social Studies :Italy :Italian
+ :Music Academy "Fryderyk Chopin" in Warszaw :Poland :Polish
+ :Université du Droit et de la Sante (Lille II) :France :French
+ :Pittsburgh Technical Institute :USA :English
+ :Pennsylvania Institute of Technology :USA :English
+ :Siberian State Medical University :Russia :Russian
+ :Physical Education Academy in Wroclaw :Poland :Polish
+ :Physical Education Academy "Eugeniusz Piasecki" in Poznan :Poland :Polish
+ :University School of Physical Education :Poland :Polish
+ :Pennsylvania Highlands Community College :USA :English
+ :Mondragon Univertsitatea :Spain :Spanish
+ :Université des Sciences et Technologies de Lille (Lille I) :France :French
+ :Université du Maine :France :French
+ :Université du Havre :France :French
+ :Ecole Nationale Supérieure de Chimie de Toulouse :France :French
+ :La Salle Universities - International Programmes :Spain :Spanish
+ :Université d'Evry Val d'Essonne :France :French
+ :International University of Southern Europe :Spain :Spanish
+ :Physical Education Academy in Katowice :Poland :Polish
+ :Montgomery County Community College :USA :English
+ :Manor College :USA :English
+ :Luzerne County Community College :USA :English
+ :Physical Education Academy "Jedrzej Sniadecki" in Gdansk :Poland :Polish
+ :IE University :Spain :Spanish
+ :Physical Education Academy "Jozef Pilsudski" in Warsaw :Poland :Polish
+ :Lehigh Carbon Community College :USA :English
+ :Université de Corse Pascal Paoli :France :French
+ :Free University Institute "Carlo Cattaneo" :Italy :Italian
+ :Samara State University of Economics :Russia :Russian
+ :Lackawanna College :USA :English
+ :Agricultural University of Poznan :Poland :Polish
+ :John Cabot University :Italy :Italian
+ :Saratov State Socio-Economic University :Russia :Russian
+ :Université Catholique de Lyon :France :French
+ :Harrisburg Area Community College-​Harrisburg :USA :English
+ :Harcum College :USA :English
+ :Delaware County Community College :USA :English
+ :Université de Bretagne Occidentale :France :French
+ :Community College of Philadelphia :USA :English
+ :Global Business School Barcelona :Spain :Spanish
+ :Aleksander Zelwerowicz State Theatre Academy :Poland :Polish
+ :Johns Hopkins University, SAIS Bologna Center :Italy :Italian
+ :Community College of Beaver County :USA :English
+ :Community College of Allegheny County :USA :English
+ :Butler County Community College :USA :English
+ :Bucks County Community College :USA :English
+ :Umpqua Community College :USA :English
+ :Treasure Valley Community College :USA :English
+ :Tillamook Bay Community College :USA :English
+ :Samara State Aerospace University :Russia :Russian
+ :Escuela Superior de Gestion Comercial y Marketing (ESIC) :Spain :Spanish
+ :Southwestern Oregon Community College :USA :English
+ :Istituto Universitario di Studi Superiori :Italy :Italian
+ :Rogue Community College :USA :English
+ :Universidad del País Vasco :Spain :Spanish
+ :Universidad de Deusto :Spain :Spanish
+ :Université Blaise Pascal (Clermont-Ferrand II) :France :French
+ :University Institute of Oriental Studies :Italy :Italian
+ :Mt. Hood Community College :USA :English
+ :Samara State Academy of Architecture and Civil Engineering :Russia :Russian
+ :Linn-​Benton Community College :USA :English
+ :Lane Community College :USA :English
+ :Klamath Community College :USA :English
+ :Samara State Agricultural Academy :Russia :Russian
+ :Université d'Avignon :France :French
+ :Columbia Gorge Community College :USA :English
+ :Fine Arts Academy in Wroclaw :Poland :Polish
+ :Clatsop Community College :USA :English
+ :Fine Arts Academy in Warsaw :Poland :Polish
+ :Clackamas Community College :USA :English
+ :Chemeketa Community College :USA :English
+ :Central Oregon Community College :USA :English
+ :Blue Mountain Community College :USA :English
+ :Universidad de San Pablo CEU :Spain :Spanish
+ :Bircham International University :Spain :Spanish
+ :Université d'Artois :France :French
+ :Dutch University Institute for Art History (DUIA) :Italy :Italian
+ :Université d'Angers :France :French
+ :Western Oklahoma State College :USA :English
+ :Tulsa Community College :USA :English
+ :Université de Limoges :France :French
+ :Fine Arts Academy in Poznan :Poland :Polish
+ :Seminole State College :USA :English
+ :Rose State College :USA :English
+ :Barcelona Graduate School of Economics :Spain :Spanish
+ :Fine Arts Academy Wladyslaw Strzeminski in Lodz :Poland :Polish
+ :University Institute of Modern Languages :Italy :Italian
+ :Redlands Community College :USA :English
+ :Fine Arts Academy in Katowice :Poland :Polish
+ :Oklahoma City Community College :USA :English
+ :St. Petersburg StateMechnikov  Medical Academy :Russia :Russian
+ :Northern Oklahoma College :USA :English
+ :Northeastern Oklahoma A&M College :USA :English
+ :Murray State College :USA :English
+ :Université de Nice-Sophia Antipolis :France :French
+ :Eastern Oklahoma State College :USA :English
+ :St. Petersburg State Mining Institute (Technical University) :Russia :Russian
+ :Connors State College :USA :English
+ :St. Petersburg State Chemical Pharmaceutical Academy :Russia :Russian
+ :St. Petersburg State University of Waterway Communications :Russia :Russian
+ :Carl Albert State College :USA :English
+ :Zane State College :USA :English
+ :Washington State Community College :USA :English
+ :European University Institute :Italy :Italian
+ :University Institute of Architecture Venice :Italy :Italian
+ :Université de Caen Basse Normandie :France :French
+ :University of Akron Wayne College :USA :English
+ :Terra State Community College :USA :English
+ :Stark State College :USA :English
+ :Fine Arts Academy in Gdansk :Poland :Polish
+ :Agricultural University of Wroclaw :Poland :Polish
+ :Institute for Advanced Studies Lucca :Italy :Italian
+ :Southern State Community College :USA :English
+ :Agricultural-Technical Academy in Olsztyn :Poland :Polish
+ :Owens Community College :USA :English
+ :Ohio State University Agricultural Technical Institute :USA :English
+ :Northwest State Community College :USA :English
+ :North Central State College :USA :English
+ :Marion Technical College :USA :English
+ :Lorain County Community College :USA :English
+ :Lakeland Community College :USA :English
+ :Abdus Salam international centre for theoretical physics :Italy :Italian
+ :Agricultural University of Szczecin :Poland :Polish
+ :Université Joseph Fourier (Grenoble I) :France :French
+ :Agricultural University of Lublin :Poland :Polish
+ :University of Modena :Italy :Italian
+ :St. Petersburg State University :Russia :Russian
+ :James A Rhodes State College :USA :English
+ :Hocking College :USA :English
+ :Université Henri Poincaré (Nancy I) :France :French
+ :Université Rennes II - Haute-Bretagne :France :French
+ :Edison State Community College :USA :English
+ :Université Stendhal (Grenoble III) :France :French
+ :St. Petersburg Institute of Sales Management and Economics :Russia :Russian
+ :Eastern Gateway Community College :USA :English
+ :Agricultural University of Cracow :Poland :Polish
+ :Davis College :USA :English
+ :Akademia Podlaska :Poland :Polish
+ :Cuyahoga Community College District :USA :English
+ :Columbus State Community College :USA :English
+ :Clark State Community College :USA :English
+ :Cincinnati State Technical and Community College :USA :English
+ :Chatfield College :USA :English
+ :Central Ohio Technical College :USA :English
+ :Polonia University in Czêstochowa :Poland :Polish
+ :St. Petersburg State Polytechnical University :Russia :Russian
+ :Université Catholique de l' Ouest :France :French
+ :Université d'Auvergne (Clermont-Ferrand I) :France :French
+ :Belmont College :USA :English
+ :Université de Cergy-Pontoise :France :French
+ :Pontificio Ateneo Antonianum :Italy :Italian
+ :Pontificia Università S. Tommaso :Italy :Italian
+ :Williston State College :USA :English
+ :North Dakota State College of Science :USA :English
+ :Université Bourgogne - Franche-Comté :France :French
+ :St. Petersburg Institute of Arts and Restoration :Russia :Russian
+ :St. Petersburg State University of Culture and Arts :Russia :Russian
+ :Lake Region State College :USA :English
+ :St. Petersburg State Agrarian University :Russia :Russian
+ :Dakota College at Bottineau :USA :English
+ :Cankdeska Cikana Community College :USA :English
+ :Wilson Community College :USA :English
+ :Wilkes Community College :USA :English
+ :St. Petersburg State University of Architecture and Civil Engineering :Russia :Russian
+ :Western Piedmont Community College :USA :English
+ :Wayne Community College :USA :English
+ :Wake Technical Community College :USA :English
+ :Tri-​County Community College :USA :English
+ :Surry Community College :USA :English
+ :Stanly Community College :USA :English
+ :Southwestern Community College :USA :English
+ :South Piedmont Community College :USA :English
+ :Southeastern Community College :USA :English
+ :Medical Academy in Wroclaw :Poland :Polish
+ :Academic University :Russia :Russian
+ :Sandhills Community College :USA :English
+ :Medical Academy in Warszawa :Poland :Polish
+ :Sampson Community College :USA :English
+ :Rowan-​Cabarrus Community College :USA :English
+ :Université Victor Segalen (Bordeaux II) :France :French
+ :St. Petersburg State Marine Technical University :Russia :Russian
+ :Rockingham Community College :USA :English
+ :Robeson Community College :USA :English
+ :Roanoke-​Chowan Community College :USA :English
+ :Richmond Community College :USA :English
+ :Randolph Community College :USA :English
+ :Pitt Community College :USA :English
+ :Piedmont Community College :USA :English
+ :Pamlico Community College :USA :English
+ :Nash Community College :USA :English
+ :Smolny University :Russia :Russian
+ :Montgomery Community College :USA :English
+ :Mitchell Community College :USA :English
+ :McDowell Technical Community College :USA :English
+ :Siberian State Industrial University :Russia :Russian
+ :Music Academy "Karol Lipinski" in Wroclaw :Poland :Polish
+ :Université d'Aix-Marseille III :France :French
+ :Smolensk Humanitarian University :Russia :Russian
+ :Mayland Community College :USA :English
+ :Martin Community College :USA :English
+ :Music Academy "Ignacy Jana Paderewski" in Poznan :Poland :Polish
+ :Louisburg College :USA :English
+ :Johnston Community College :USA :English
+ :Music Academy in Lodz :Poland :Polish
+ :James Sprunt Community College :USA :English
+ :Isothermal Community College :USA :English
+ :Haywood Community College :USA :English
+ :Music Academy in Cracow :Poland :Polish
+ :Halifax Community College :USA :English
+ :Guilford Technical Community College :USA :English
+ :Gaston College :USA :English
+ :Ecole Supérieure d'Electricité :France :French
+ :Forsyth Technical Community College :USA :English
+ :Fayetteville Technical Community College :USA :English
+ :Edgecombe Community College :USA :English
+ :Durham Technical Community College :USA :English
+ :Davidson County Community College :USA :English
+ :Music Academy "Stanislaw Moniuszko" in Gdansk :Poland :Polish
+ :Music Academy "Felix Nowowiejski" in Bydgoszcz :Poland :Polish
+ :Craven Community College :USA :English
+ :College of the Albemarle :USA :English
+ :Coastal Carolina Community College :USA :English
+ :Cleveland Community College :USA :English
+ :Central Piedmont Community College :USA :English
+ :Saratov State University :Russia :Russian
+ :Adam Mickiewicz University of Poznan :Poland :Polish
+ :Central Carolina Community College :USA :English
+ :Catawba Valley Community College :USA :English
+ :Carteret Community College :USA :English
+ :Carolinas College of Health Sciences :USA :English
+ :Cape Fear Community College :USA :English
+ :Caldwell Community College and Technical Institute :USA :English
+ :Brunswick Community College :USA :English
+ :Blue Ridge Community Colleg :USA :English
+ :Bladen Community College :USA :English
+ :Beaufort County Community College :USA :English
+ :Medical Academy in Lublin :Poland :Polish
+ :Asheville-​Buncombe Technical Community College :USA :English
+ :Alamance Community College :USA :English
+ :Ulster County Community College :USA :English
+ :Tompkins Cortland Community College :USA :English
+ :Smolensk State Medical Academy :Russia :Russian
+ :Technical Career Institutes :USA :English
+ :SUNY Westchester Community College :USA :English
+ :Medical Academy in Lodz :Poland :Polish
+ :Music Academy "Karol Szymanowski" in Katowice :Poland :Polish
+ :SUNY Broome Community College :USA :English
+ :Sullivan County Community College :USA :English
+ :Suffolk County Community College :USA :English
+ :Groupe Sup de Co Montpellier :France :French
+ :Schenectady County Community College :USA :English
+ :Saint Elizabeth College of Nursing :USA :English
+ :Saratov State Agrarian University :Russia :Russian
+ :Medical Academy in Gdansk :Poland :Polish
+ :Rockland Community College :USA :English
+ :Groupe Sup de Co Amiens Picardie :France :French
+ :Orange County Community College :USA :English
+ :Onondaga Community College :USA :English
+ :Medical Academy in Bialystok :Poland :Polish
+ :Saratov State Academy of Law :Russia :Russian
+ :North Country Community College :USA :English
+ :Niagara County Community College :USA :English
+ :Nassau Community College :USA :English
+ :Monroe Community College :USA :English
+ :Mohawk Valley Community College :USA :English
+ :Jefferson Community College :USA :English
+ :Siberian Academy of Public Services :Russia :Russian
+ :Samara State Medical University :Russia :Russian
+ :Samara State Academy for Railway Transportation :Russia :Russian
+ :Jamestown Community College :USA :English
+ :Hudson Valley Community College :USA :English
+ :Medical Academy Ludwik Rydygier in Bydgoszcz :Poland :Polish
+ :Herkimer County Community College :USA :English
+ :Academy of Humanities and Economics in Lodz :Poland :Polish
+ :Genesee Community College :USA :English
+ :Fulton-​Montgomery Community College :USA :English
+ :AGH University of Science and Technology :Poland :Polish
+ :Ecole Nationale Supérieure de l'Aéronautique et de l'Espace :France :French
+ :Finger Lakes Community College :USA :English
+ :Ecole Superieure Robert de Sorbon :France :French
+ :Sakhalin State University :Russia :Russian
+ :Dutchess Community College :USA :English
+ :CUNY Queensborough Community College :USA :English
+ :Academy of Economics in Wroclaw :Poland :Polish
+ :CUNY LaGuardia Community College :USA :English
+ :CUNY Kingsborough Community College :USA :English
+ :Ufa State Petroleum Technological University :Russia :Russian
+ :CUNY Hostos Community College :USA :English
+ :CUNY Bronx Community College :USA :English
+ :CUNY Borough of Manhattan Community College :USA :English
+ :Columbia-​Greene Community College :USA :English
+ :Université Denis Diderot (Paris VII) :France :French
+ :Academy of Economics in Poznan :Poland :Polish
+ :Clinton Community College :USA :English

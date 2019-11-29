@@ -1,0 +1,1000 @@
+ :Dorothée Girard :French :Spanish
+ :Dott. Eliana Agazzi  :Italian :Russian
+ :Christina Pierce :English :Estonian
+ :Sirpa Koponen-Ronkainen :Finnish :English
+ :Jüri Palm :Estonian :Ukranian
+ :Melissa Morgagni :Italian :Ukranian
+ :Mariusz Kołpak :Polish :Finnish
+ :Mare Arula :Estonian :English
+ :Jean Munoz-Torres :French :Italian
+ :Triin Kuus :Estonian :English
+ :Marika Laaksonen-Mattila :Finnish :French
+ :Urmas Männiste :Estonian :French
+ :Aleksander Holm :Estonian :Italian
+ :Nedda Pugliese :Italian :Ukranian
+ :Damian Kuświk :Polish :Ukranian
+ :Rolando Bernetti :Italian :English
+ :Щербакова Зинаида Геннадьевна :Russian :Polish
+ :Кузьмин Ярослав Валерьянович :Russian :Estonian
+ :Jekaterina Novikov :Estonian :Finnish
+ :Галина Лаба :Ukranian :French
+ :Renata Armani-Cerquiglini :Italian :Russian
+ :Alfredo Romeu Merino :Spanish :French
+ :Susan Mitchell :English :Estonian
+ :Veronica Sanchez :English :Spanish
+ :Bertrand Renaud :French :Estonian
+ :Dolores Blanes-Grau :Spanish :French
+ :Irja Kiviniemi :Finnish :French
+ :Jaakko Parkkinen-Riikonen :Finnish :Spanish
+ :Кулаков Евдоким Жоресович :Russian :Ukranian
+ :Anders Saastamoinen :Finnish :Italian
+ :Pia Backman :Finnish :Spanish
+ :Michael Barker :English :Ukranian
+ :Diego Tovar Miró :Spanish :Finnish
+ :André de Girard :French :Spanish
+ :Brad Mueller :English :Finnish
+ :Hector Gaya Salas :Spanish :English
+ :Auguste Giraud-Nicolas :French :Spanish
+ :Ермаков Фотий Викторович :Russian :French
+ :Фадеева Полина Ильинична :Russian :Finnish
+ :Marisa Mocenigo :Italian :Finnish
+ :Варвара Фартушняк :Ukranian :French
+ :Franck Vincent :French :Estonian
+ :Esperanza Marta Arregui Somoza :Spanish :Estonian
+ :Франц Батуринець :Ukranian :Finnish
+ :Józef Janisz :Polish :Estonian
+ :Blanka Golda :Polish :Estonian
+ :Маслов Илья Елисеевич :Russian :English
+ :Ignacio Vélez :Spanish :English
+ :Marjukka Kauppinen :Finnish :English
+ :Susana Anna Pujol Valderrama :Spanish :Italian
+ :Tiina Liukkonen :Finnish :English
+ :Віолетта Корбут :Ukranian :Polish
+ :Юстина Сацюк :Ukranian :English
+ :Annamaria Lucchesi :Italian :French
+ :Петухова Вера Ильинична :Russian :Spanish
+ :Juan Luis Francisco Jose Lladó Carvajal :Spanish :English
+ :Irma Lehtinen :Finnish :Ukranian
+ :Устим Тесленко :Ukranian :Russian
+ :Белоусова Татьяна Петровна :Russian :Italian
+ :Tola Mysiak :Polish :English
+ :Gilbert Rossi :French :Polish
+ :Ornella Canali :Italian :Estonian
+ :Christopher Fuller :English :Ukranian
+ :Catalina Trujillo Salazar :Spanish :Finnish
+ :Galina Mironov :Estonian :English
+ :Dominique Jacob du Denis :French :Italian
+ :Marcos Naranjo Villalonga :Spanish :Ukranian
+ :Eve Võsu :Estonian :Finnish
+ :Aleksander Koval :Estonian :Russian
+ :Véronique-Lucy Maurice :French :Italian
+ :Kalevi Suomalainen :Finnish :Italian
+ :Anneli Timonen-Aaltonen :Finnish :Spanish
+ :Anu Koppel :Estonian :Ukranian
+ :Veera Kokkonen :Finnish :Estonian
+ :Carla Dávila-Balaguer :Spanish :Ukranian
+ :Gabrielle Pruvost Le Adam :French :Estonian
+ :Dott. Umberto Montecchi :Italian :Spanish
+ :Guy Antoine :French :Russian
+ :Mihkel Tamme :Estonian :Ukranian
+ :Virginia Gentilini :Italian :Finnish
+ :Noël Marchal :French :Russian
+ :Émile du Jacquet :French :Finnish
+ :Тарасов Карл Трифонович :Russian :English
+ :Давид Мірошниченко :Ukranian :Spanish
+ :Одарка Шелест :Ukranian :Estonian
+ :pani Kaja Druszcz :Polish :Finnish
+ :Olavi Lilja :Finnish :Ukranian
+ :Irene Fernandez-Borja :Spanish :English
+ :Michel Jacquet Le Perrin :French :Estonian
+ :Jared Richards MD :English :Spanish
+ :Jorge Ariño Millán :Spanish :French
+ :Adamo Puglisi :Italian :English
+ :Liana Giovine :Italian :Russian
+ :Пестов Фрол Владиленович :Russian :Spanish
+ :Daniel Descamps-De Oliveira :French :Italian
+ :Ignacy Kłosiewicz :Polish :Estonian
+ :Cezary Fechner :Polish :Finnish
+ :Niina Sulg :Estonian :English
+ :Julia Gerassimov :Estonian :Ukranian
+ :Gelsomina Natta :Italian :Spanish
+ :Célina Lemoine Le Richard :French :Estonian
+ :William Munoz :English :Polish
+ :Juhani Koski-Lindholm :Finnish :Russian
+ :Laura Rogers :English :Estonian
+ :Milagros Izquierdo Corominas :Spanish :Polish
+ :Minna Mäki :Finnish :French
+ :Адам Полтавець :Ukranian :French
+ :Афанасьева Ираида Харитоновна :Russian :French
+ :Lorena Aguado Salazar :Spanish :English
+ :Anneli Halonen :Finnish :Russian
+ :Jose Carlos Roda Gracia :Spanish :Russian
+ :Tõnu Lukk :Estonian :Polish
+ :Mariana Burcardo :Italian :Spanish
+ :Лазарев Илья Геннадиевич :Russian :Estonian
+ :Ruggiero Conte :Italian :Finnish
+ :Ljubov Semenov :Estonian :English
+ :Kazimierz Turlej :Polish :Ukranian
+ :Jessica Gonzalez :English :French
+ :Євген Шахрай :Ukranian :French
+ :Siim Talts :Estonian :Spanish
+ :Дмитриева Ксения Андреевна :Russian :English
+ :Тереза Тригуб :Ukranian :English
+ :Väinö Peltonen :Finnish :French
+ :Francisca Blanco Agullo :Spanish :Polish
+ :Sonia Roig-Osuna :Spanish :Estonian
+ :Alfredo Fagotto :Italian :Spanish
+ :Ignacy Rawa :Polish :Russian
+ :Hilkka Huttunen :Finnish :Estonian
+ :Eeva Nurminen :Finnish :English
+ :Emmanuel Gilbert-Nguyen :French :Estonian
+ :William Pichon :French :Polish
+ :Мамонтова Прасковья Георгиевна :Russian :Italian
+ :Некрасова Антонина Львовна :Russian :Polish
+ :Новикова Ирина Викторовна :Russian :Spanish
+ :pan Tadeusz Raszkiewicz :Polish :English
+ :Никонов Родион Богданович :Russian :Italian
+ :Dagmara Ruman :Polish :Spanish
+ :пані Анжела Тригуб :Ukranian :Russian
+ :Dott. Antonina Ferrata :Italian :Spanish
+ :Віолетта Вахній :Ukranian :English
+ :Denis de la Langlois :French :Italian
+ :Juan José Ignacio Portillo Alcolea :Spanish :Ukranian
+ :Antero Ojala :Finnish :Estonian
+ :Vernon Thomas :English :Italian
+ :Amico Randazzo :Italian :Polish
+ :Venancio Zamorani :Italian :Russian
+ :Панова Евдокия Рудольфовна :Russian :Estonian
+ :Родионов Илья Ефремович :Russian :Polish
+ :Luisa Carretero Santamaría :Spanish :Italian
+ :Tymon Gruza :Polish :Ukranian
+ :Ossi Komulainen :Finnish :Polish
+ :Adriana Paz Gómez :Spanish :Italian
+ :Marko Aasmäe :Estonian :Polish
+ :Kalevi Miettinen-Kämäräinen :Finnish :Italian
+ :Веселов Владимир Фокич :Russian :Polish
+ :Устинова Антонина Матвеевна :Russian :Italian
+ :Gabriel Arrieta Perez :Spanish :English
+ :Carolyn Maddox :English :Italian
+ :Oleg Fedotov :Estonian :Ukranian
+ :Ene Sööt :Estonian :Italian
+ :Vello Jõe :Estonian :Ukranian
+ :Ольга Гаврилюк :Ukranian :Estonian
+ :Воронцов Артем Трофимович :Russian :Finnish
+ :Sakari Hakkarainen-Mäkinen :Finnish :English
+ :Rachael Jefferson :English :Spanish
+ :Gaja Skierka :Polish :Ukranian
+ :Leonardo Garrone :Italian :Spanish
+ :Laura Mändla :Estonian :Polish
+ :Louis Maurice :French :Italian
+ :Лобанова Акулина Станиславовна :Russian :Finnish
+ :Tatiana Kotov :Estonian :Italian
+ :Alejandro Tudela Boada :Spanish :French
+ :Pentti Konttinen :Finnish :Italian
+ :Marianna Bilewicz :Polish :Estonian
+ :Svetlana Gromov :Estonian :Italian
+ :Христина Михайличенко :Ukranian :Spanish
+ :Diana Jordan :English :Ukranian
+ :Vello Kala :Estonian :Italian
+ :Ковалев Азарий Артёмович :Russian :Polish
+ :pan Marek Lelonek :Polish :Finnish
+ :David-Gilbert Pineau :French :Russian
+ :Lucas Gilles :French :English
+ :Alfonso Méndez Lobato :Spanish :Polish
+ :Gilbert Ferrand :French :Finnish
+ :Anneli Raudsepp :Estonian :French
+ :Olga Ferrández Ayala :Spanish :English
+ :Sara Nazarewicz :Polish :Russian
+ :Isaac Thomas Le Guyot :French :Russian
+ :Patrick-Thibault Maury :French :Finnish
+ :Лаврентьева Пелагея Даниловна :Russian :Polish
+ :Beverly Garner :English :Finnish
+ :Tiit Adamson :Estonian :Polish
+ :Яковлев Трофим Гертрудович :Russian :Ukranian
+ :Juhani Lindström :Finnish :Italian
+ :Anastasie Berthelot :French :Spanish
+ :Paulette Le Leroy :French :Finnish
+ :Juan José Feijoo Navarro :Spanish :Russian
+ :Albert Lucena Fuentes :Spanish :English
+ :Verónica Nuria Gonzalo Pujadas :Spanish :Polish
+ :Denis Gomes :French :Finnish
+ :Margot Hernandez :French :Italian
+ :Sig. Benedetto Cantimori  :Italian :French
+ :Bartolomeo Innocenti  :Italian :Estonian
+ :Мамонтова Лариса Рудольфовна :Russian :Polish
+ :Mireia Dávila Juliá :Spanish :French
+ :Janina Hak :Polish :Russian
+ :Jason Brown :English :Italian
+ :Szymon Zysk :Polish :Ukranian
+ :Марко Тимчук :Ukranian :Finnish
+ :Giancarlo Catalano  :Italian :Estonian
+ :Silvia Giolitti :Italian :Ukranian
+ :Анжела Хомик :Ukranian :English
+ :pani Inga Kwak :Polish :Finnish
+ :Aleksander Jegorov :Estonian :English
+ :Олена Шамрай :Ukranian :Russian
+ :Niina Maasik :Estonian :Italian
+ :Горбачев Фотий Артурович :Russian :French
+ :David Ariza Higueras :Spanish :Estonian
+ :Viktor Gusev :Estonian :Polish
+ :пані Златослава Шморгун :Ukranian :Spanish
+ :Ярослава Безбородько :Ukranian :English
+ :Antonello Montalti :Italian :Ukranian
+ :Christine-Margot Pascal :French :Ukranian
+ :Melania Grygorcewicz :Polish :Ukranian
+ :Charles-Paul Collin :French :English
+ :Vladimir Vlassov :Estonian :Finnish
+ :Nina Filatov :Estonian :Spanish
+ :Juan Francisco Casanova Infante :Spanish :Finnish
+ :Antero Rantanen :Finnish :French
+ :Miguel Ángel Montalbán Mulet :Spanish :Italian
+ :Laura Virtanen :Finnish :French
+ :Nicole Lane :English :French
+ :Roland Collet :French :English
+ :Зиновьева Зоя Петровна :Russian :Ukranian
+ :Егоров Евграф Якубович :Russian :French
+ :Jules-Charles Lebon :French :Italian
+ :Marcin Dziedzina :Polish :Russian
+ :Valeria Giammusso :Italian :Spanish
+ :Антон Ляшко :Ukranian :English
+ :Dott. Aurora Branciforte  :Italian :Spanish
+ :Indrek Sutt :Estonian :French
+ :Laurence Diallo :French :Finnish
+ :Oskar Puc :Polish :Finnish
+ :Stacy Miles :English :Estonian
+ :Ines Paula Vall Rocha :Spanish :French
+ :Emily Booth :English :Estonian
+ :Dante Poerio :Italian :Russian
+ :Andres Kont :Estonian :Ukranian
+ :Svetlana Ševtšenko :Estonian :Spanish
+ :Veronica Collins :English :Estonian
+ :Kazimierz Rorat :Polish :Russian
+ :Borys Brodowicz :Polish :Italian
+ :Варвара Притула :Ukranian :Spanish
+ :pani Natasza Malcher :Polish :Russian
+ :Dott. Marco Silvestri  :Italian :Finnish
+ :Théodore Moreno :French :Spanish
+ :Ilmari Pasanen :Finnish :Spanish
+ :Marthe Sanchez :French :Italian
+ :pani Dorota Kurcz :Polish :Russian
+ :Roland Descamps-Navarro :French :Estonian
+ :Кулагин Лазарь Ануфриевич :Russian :Polish
+ :Terhi Rantanen :Finnish :Italian
+ :Jacob Butler :English :Italian
+ :Julianna Kuba :Polish :Estonian
+ :Juri Štšerbakov :Estonian :Russian
+ :Adélaïde-Margot Roger :French :Ukranian
+ :Lorenzo Alberdi :Spanish :Finnish
+ :Patryk Kozon :Polish :Spanish
+ :Kristi Põdra :Estonian :French
+ :Amy Buckley :English :Italian
+ :Фомичева Кира Натановна :Russian :Ukranian
+ :Kadri Paal :Estonian :Italian
+ :Belen del Doménech :Spanish :Italian
+ :Martin Salumäe :Estonian :Spanish
+ :Priit Hanson :Estonian :Italian
+ :Guillaume Perret :French :Finnish
+ :Anouk Andre :French :Italian
+ :Amber Crawford :English :Estonian
+ :Colleen Shepherd :English :French
+ :Guillaume de la Loiseau :French :Estonian
+ :Dott. Rosa Pezzali :Italian :French
+ :Марія Андрійович :Ukranian :Spanish
+ :Giulia Blasi :Italian :Estonian
+ :пан Захар Єременко :Ukranian :Russian
+ :Лаврентьев Аполлон Адамович :Russian :Spanish
+ :Linda Kokk :Estonian :Ukranian
+ :Angelina Pisaroni :Italian :Spanish
+ :Гліб Сиротенко :Ukranian :Polish
+ :Venla Nissinen :Finnish :Ukranian
+ :Adam Szałata :Polish :Italian
+ :Jennifer Durham :English :Italian
+ :Józef Karkut :Polish :Italian
+ :Indrek Lepp :Estonian :English
+ :Христина Терещенко :Ukranian :Estonian
+ :Tiit Uustalu :Estonian :Ukranian
+ :Magdalena del Montaña :Spanish :Polish
+ :Julie Williams :English :French
+ :Jari Eskelinen-Kukkonen :Finnish :Ukranian
+ :Ari Pelkonen-Karhu :Finnish :English
+ :Софія Опанасенко :Ukranian :English
+ :Marika Määttä :Finnish :Polish
+ :Antti Partanen :Finnish :Ukranian
+ :Valtteri Ollila :Finnish :English
+ :Manon du Bigot :French :Estonian
+ :Sergey Klimov :Estonian :Finnish
+ :Суворова Клавдия Кузминична :Russian :Polish
+ :Dott. Liliana Piccinni  :Italian :English
+ :Arthur Peltier :French :Estonian
+ :Віолетта Ванченко :Ukranian :English
+ :Marcelle-Marguerite Normand :French :Spanish
+ :Оксана Рябовіл :Ukranian :Polish
+ :Ilmari Koivisto :Finnish :Estonian
+ :Indrek Markus :Estonian :Ukranian
+ :Dott. Fortunata Malaparte  :Italian :Polish
+ :Joshua Allen :English :Italian
+ :John Cook :English :Russian
+ :Laure Rey :French :Ukranian
+ :Michael Roberts :English :Estonian
+ :Josefa Corral Arana :Spanish :Finnish
+ :Dario Mastandrea :Italian :French
+ :Valeri Melnik :Estonian :Italian
+ :Daniel Diallo-Laine :French :Finnish
+ :Petri Gustafsson :Finnish :Estonian
+ :Susanne Remy :French :Spanish
+ :Amparo Suarez Abellán :Spanish :Ukranian
+ :Воробьева Лариса Федоровна :Russian :Polish
+ :Renee Massey :English :Estonian
+ :Nicola Ortolani :Italian :Ukranian
+ :Arturo Borghese  :Italian :Ukranian
+ :Bianca Cattaneo :Italian :Polish
+ :Niina Arro :Estonian :Russian
+ :pani Inga Uliasz :Polish :French
+ :Eryk Chorążewicz :Polish :French
+ :Toomas Heinsoo :Estonian :Italian
+ :Indrek Väli :Estonian :Polish
+ :Paulina Zanzi :Italian :Estonian
+ :Emilia Valero-Baró :Spanish :Russian
+ :Hannele Kuosmanen :Finnish :Polish
+ :Amélie de la Marie :French :Ukranian
+ :Емілія Савенко :Ukranian :English
+ :Sig. Temistocle Cundari :Italian :English
+ :Victoria Bragadin :Italian :Russian
+ :Amélie Lemaitre-Pinto :French :Polish
+ :Трофимова Антонина Матвеевна :Russian :Estonian
+ :Антон Єрмоленко :Ukranian :English
+ :Jekaterina Sergejev :Estonian :Spanish
+ :Xavier Martins de Boulanger :French :Spanish
+ :Agathe-Marianne Robert :French :Italian
+ :Dott. Alfio Moneta :Italian :Polish
+ :Federico Ciampi  :Italian :Ukranian
+ :Федосеев Зосима Тарасович :Russian :Spanish
+ :pani Anita Skierka :Polish :Spanish
+ :Fiorenzo Fiorucci :Italian :Spanish
+ :Olga Gavrilov :Estonian :French
+ :Мельникова Жанна Владиславовна :Russian :Italian
+ :Tõnu Roots :Estonian :Spanish
+ :Лукина Екатерина Константиновна :Russian :Spanish
+ :Marita Riikonen-Laakso :Finnish :French
+ :Piret Tuul :Estonian :French
+ :Katrin Põder :Estonian :Polish
+ :Romolo Bertoni :Italian :Finnish
+ :Sebastian Izquierdo Castejón :Spanish :Italian
+ :Joshua Duncan :English :Russian
+ :Nicholas Porter :English :Estonian
+ :Григорій Шведченко :Ukranian :Spanish
+ :Danielle Lebreton-Peltier :French :English
+ :Roger Le Jourdan :French :Russian
+ :Diego Rodrigo Pastor :Spanish :Russian
+ :Mohamed Vergara Huertas :Spanish :English
+ :Lara Prada :Italian :Ukranian
+ :Adèle Morel :French :Italian
+ :Renata Biagiotti :Italian :English
+ :Медведева Агата Константиновна :Russian :English
+ :Anna Härm :Estonian :English
+ :Goffredo Villadicani  :Italian :French
+ :Jelena Titov :Estonian :English
+ :Anu Kirs :Estonian :Spanish
+ :Dorota Seidel :Polish :Russian
+ :Antti Nieminen :Finnish :English
+ :Giancarlo Babato  :Italian :English
+ :Agnieszka Włodarz :Polish :Estonian
+ :Jessica Herman :English :Spanish
+ :Heikki Mäkinen :Finnish :Estonian
+ :Tymoteusz Boguta :Polish :French
+ :René Marques :French :Ukranian
+ :Копылова Наталья Никифоровна :Russian :Spanish
+ :Ильин Лавр Архипович :Russian :Estonian
+ :Sara Dudziec :Polish :English
+ :Mary Jones :English :Italian
+ :пан Леонтій Орлик :Ukranian :English
+ :Адам Дашенко :Ukranian :Finnish
+ :Samuli Virtanen :Finnish :Polish
+ :Maura Gritti  :Italian :Estonian
+ :Christine Lee :English :Finnish
+ :Tina Maxwell :English :Italian
+ :Marjatta Hautala :Finnish :French
+ :Elias Saastamoinen :Finnish :Spanish
+ :Andrzej Laszczyk :Polish :Ukranian
+ :Fortunata Tozzo-Balla :Italian :English
+ :pan Fryderyk Ksel :Polish :Estonian
+ :Ilari Henriksson :Finnish :Polish
+ :Inga Wyroba :Polish :Russian
+ :Блинова Елена Тимофеевна :Russian :Ukranian
+ :Aleksander Põldma :Estonian :Italian
+ :Mika Väisänen :Finnish :Spanish
+ :Honoré Pottier-Giraud :French :Spanish
+ :Никифоров Мирон Ильич :Russian :Ukranian
+ :Jaanus Arula :Estonian :French
+ :David Huff :English :French
+ :Anneli Mäesalu :Estonian :Italian
+ :Ефремова Надежда Валериевна :Russian :Spanish
+ :Ewa Pytlarz :Polish :Finnish
+ :Daniel Williams :English :Ukranian
+ :pan Norbert Łyczak :Polish :English
+ :Eliza Dziugieł :Polish :Italian
+ :Noémi Perez-Marion :French :Polish
+ :Красильникова Валентина Юльевна :Russian :French
+ :Некрасова Валентина Ильинична :Russian :Ukranian
+ :Давид Бевзенко :Ukranian :Russian
+ :Kaarina Jokela-Koskinen :Finnish :Spanish
+ :Kalevi Kuisma-Leinonen :Finnish :Polish
+ :Peeter Liivamägi :Estonian :Italian
+ :Henri-Olivier Dufour :French :Italian
+ :Gema Cuéllar Bellido :Spanish :Polish
+ :Ljubov Semenov :Estonian :Ukranian
+ :Viktoria Titov :Estonian :Ukranian
+ :Mare Kotkas :Estonian :Polish
+ :пані Віолетта Савенко :Ukranian :Italian
+ :Авдеева Виктория Мироновна :Russian :Spanish
+ :Paolo Ruggeri :Italian :Polish
+ :Urszula Ficner :Polish :English
+ :Володимира Шинкаренко :Ukranian :Italian
+ :Étienne Rossi :French :Russian
+ :Уварова Анна Львовна :Russian :Spanish
+ :Камілла Бебешко :Ukranian :Estonian
+ :Maciej Korda :Polish :French
+ :Трохим Фастенко :Ukranian :Estonian
+ :Георгій Супруненко :Ukranian :French
+ :Устинова Валерия Матвеевна :Russian :Estonian
+ :Jordi Garay Navas :Spanish :Finnish
+ :Adèle-Capucine Bonnin :French :Estonian
+ :Anna Orlov :Estonian :Ukranian
+ :Katri Tikkanen :Finnish :Spanish
+ :Лапин Валерьян Вячеславович :Russian :Finnish
+ :Guy Riviere-Bertrand :French :Ukranian
+ :Роксолана Захаренко :Ukranian :Russian
+ :Шилов Платон Валерьевич :Russian :Estonian
+ :Maurilio Littizzetto  :Italian :Ukranian
+ :Макаров Архип Тарасович :Russian :Spanish
+ :Aivar Mändla :Estonian :Italian
+ :Pierre-Gilbert Alves :French :Ukranian
+ :Морозов Виктор Яковлевич :Russian :Finnish
+ :Богодар Якименко :Ukranian :English
+ :Kari Karjalainen-Nyman :Finnish :English
+ :Gina White :English :Estonian
+ :Erin Green :English :Estonian
+ :Alexander Walton :English :Estonian
+ :Manon Delorme-Lecoq :French :Ukranian
+ :Mati Ilves :Estonian :Finnish
+ :Vittorio Spinelli :Italian :Finnish
+ :Самойлова Евгения Олеговна :Russian :Finnish
+ :Eliza Ciemięga :Polish :Ukranian
+ :Justyna Przewoźniak :Polish :Ukranian
+ :Markus Nykänen-Huuskonen :Finnish :Italian
+ :Christophe Fischer-Hebert :French :Spanish
+ :Sig.ra Evangelista Sansoni  :Italian :Finnish
+ :Michał Małas :Polish :French
+ :Аарон Черінько :Ukranian :Italian
+ :Tamara Moroz :Estonian :French
+ :Колобова Василиса Оскаровна :Russian :Ukranian
+ :Michelle Gray :English :Polish
+ :Marianna Danieluk :Polish :Estonian
+ :Kristjan Mägi :Estonian :Russian
+ :Durante Persico  :Italian :French
+ :Елисеев Пимен Андреевич :Russian :Finnish
+ :Федір Андрусенко :Ukranian :Spanish
+ :Jules Chevallier-Jacquot :French :Ukranian
+ :Molly White :English :Russian
+ :Krystyna Osica :Polish :Spanish
+ :Clara del Cuéllar :Spanish :Estonian
+ :Yves Lambert :French :English
+ :Roland Lemoine :French :Russian
+ :Tola Wałaszek :Polish :Finnish
+ :Никонова Валерия Эльдаровна :Russian :Estonian
+ :Elżbieta Paw :Polish :Estonian
+ :Michelle Wells :English :French
+ :Артем Ващенко-Захарченко :Ukranian :Polish
+ :Patrick Lopez :English :Finnish
+ :Alexander Aleksandrov :Estonian :Ukranian
+ :Kevin Hall :English :French
+ :Cezary Sydor :Polish :Ukranian
+ :Опанас Тригуб :Ukranian :Finnish
+ :Гусева Пелагея Викторовна :Russian :Finnish
+ :Julia Lindroos :Finnish :Ukranian
+ :William Neveu-Martin :French :Spanish
+ :Laura Kalmus :Estonian :Spanish
+ :Päivi Kivelä-Korhonen :Finnish :English
+ :Manon Bousquet :French :Ukranian
+ :Eleanora Gentili :Italian :Estonian
+ :Élise du Leger :French :Russian
+ :Anneli Väisänen :Finnish :English
+ :Ritva Leinonen :Finnish :Russian
+ :Jose Maria Rius Viñas :Spanish :Italian
+ :Terry Lawson :English :Polish
+ :Toomas Kirs :Estonian :French
+ :Sig. Filippo Savorgnan  :Italian :Ukranian
+ :Jean Pruvost :French :Polish
+ :pani Kaja Łupina :Polish :Estonian
+ :Urmas Raid :Estonian :Finnish
+ :Alfredo Pallarès Roldan :Spanish :Ukranian
+ :pani Nicole Oleksiuk :Polish :Estonian
+ :Arthur Grondin de Legrand :French :English
+ :Jaime Alberto Villalonga Mateu :Spanish :Ukranian
+ :Anu Allik :Estonian :Finnish
+ :Giampiero Storladi :Italian :Spanish
+ :Vello Kaljurand :Estonian :Finnish
+ :Marek Koger :Estonian :Ukranian
+ :Michelotto Errigo :Italian :Estonian
+ :Aleksi Laine :Finnish :Russian
+ :Сніжана Удовиченко :Ukranian :Spanish
+ :Antoine Grondin :French :Spanish
+ :Богданна Оніщук :Ukranian :Italian
+ :Валентина Швачко :Ukranian :Spanish
+ :Орест Чуйко :Ukranian :Estonian
+ :Antero Johansson :Finnish :Ukranian
+ :Szymon Suchenek :Polish :Spanish
+ :Мясников Милован Брониславович :Russian :French
+ :pan Natan Roda :Polish :English
+ :Ashley Ferguson :English :Ukranian
+ :Nataniel Bielas :Polish :Finnish
+ :Щербакова Нина Артемовна :Russian :Estonian
+ :Natan Krüger :Polish :Italian
+ :Роксолана Шевченко :Ukranian :French
+ :Astrid Leroux :French :Italian
+ :Antonina Combi :Italian :Spanish
+ :Noah Brandt :English :Finnish
+ :Kristina Zujev :Estonian :French
+ :Romina Bruno :Italian :Russian
+ :Irina Kolesnik :Estonian :Spanish
+ :Лукин Харлампий Феоктистович :Russian :Ukranian
+ :Igor Jegorov :Estonian :French
+ :Фокин Гедеон Харламович :Russian :Italian
+ :Филатова Алина Борисовна :Russian :Estonian
+ :Mary Anderson :English :French
+ :Потапова Дарья Ефимовна :Russian :Italian
+ :Сніжана Скирда :Ukranian :Estonian
+ :Oskar Sutinen :Finnish :Estonian
+ :Orlando Soffici :Italian :French
+ :Dott. Valeria Ricolfi  :Italian :Spanish
+ :Sebastian Malara :Polish :Russian
+ :Tõnu Lukk :Estonian :Italian
+ :Giulia Toselli-Bossi :Italian :Spanish
+ :Ljubov Gromov :Estonian :Finnish
+ :Milagros Flores Casas :Spanish :Russian
+ :Samantha Tucker :English :Russian
+ :Марія Даценко :Ukranian :Estonian
+ :Rachel Bowman :English :Finnish
+ :Anja Virtanen-Kantola :Finnish :Italian
+ :Богданна Рева :Ukranian :French
+ :Kamila Kozdrój :Polish :Ukranian
+ :Азар Терещенко :Ukranian :Italian
+ :Valentine Pierre :French :Ukranian
+ :Никифорова Алина Олеговна :Russian :English
+ :Juan José Goicoechea Aroca :Spanish :Estonian
+ :Jüri Korol :Estonian :Spanish
+ :Thomas Lemaire :French :Ukranian
+ :Xavier Boada :Spanish :French
+ :Sander Ots :Estonian :Ukranian
+ :Kornel Fabiszak :Polish :Spanish
+ :Савельев Михей Данилович :Russian :French
+ :Olavi Hytönen :Finnish :French
+ :Liberto Sabbatini-Gagliano :Italian :English
+ :Наталія Юрчук :Ukranian :Polish
+ :Орест Саченко :Ukranian :Spanish
+ :тов. Шаров Анисим Адрианович :Russian :Polish
+ :Sebastian Morera-Puerta :Spanish :Italian
+ :Pauliina Virtanen :Finnish :Italian
+ :Tellervo Kilpeläinen :Finnish :Spanish
+ :Mathilde Gillet :French :Ukranian
+ :Tiina Sepp :Estonian :Spanish
+ :Tõnu Johanson :Estonian :Finnish
+ :Іван Канівець :Ukranian :French
+ :Кирило Сич :Ukranian :Italian
+ :Angelika Pachnik :Polish :Estonian
+ :Tiiu Lipp :Estonian :Spanish
+ :Juha Laukkanen :Finnish :Ukranian
+ :Sig. Ernesto Franscini :Italian :Estonian
+ :Сергій Оліфіренко :Ukranian :Russian
+ :Орися Цушко :Ukranian :Russian
+ :Melissa Bignardi-Fattori :Italian :French
+ :Adrián Mayo Coloma :Spanish :French
+ :Mia Andersson :Finnish :English
+ :Joaquin Roberto Sarabia Oliver :Spanish :French
+ :Jose Francisco Asenjo Pazos :Spanish :Polish
+ :Лазарева Евпраксия Ниловна :Russian :Italian
+ :Armando Orengo-Tanzini :Italian :Spanish
+ :Francesca Dossetti :Italian :Estonian
+ :Златослава Назаренко :Ukranian :Spanish
+ :Guy Guyon :French :Polish
+ :Сидоров Илья Филиппович :Russian :Spanish
+ :Pavel Zaitsev :Estonian :Finnish
+ :Peeter Tiik :Estonian :French
+ :Annetta Ponti :Italian :Ukranian
+ :Леопольд Корж :Ukranian :Estonian
+ :Хохлова София Сергеевна :Russian :Polish
+ :Галина Асаула :Ukranian :Italian
+ :pani Anita Kafel :Polish :Estonian
+ :Giampaolo Filippelli :Italian :Russian
+ :Симон Дурдинець :Ukranian :Estonian
+ :Rodrigo Molins-Sales :Spanish :French
+ :Gemma Schiavo :Italian :Spanish
+ :Wesley Moore :English :Finnish
+ :Тереза Гунько :Ukranian :Estonian
+ :Jose Miguel Bravo Aguilar :Spanish :Estonian
+ :Lisa Harrison :English :Polish
+ :Князева Дарья Федоровна :Russian :French
+ :г-н. Суханов Рубен Тимурович :Russian :Finnish
+ :Богуслав Михалюк :Ukranian :Finnish
+ :Sébastien de la Guerin :French :Spanish
+ :Cristina Soto Ferrera :Spanish :Russian
+ :Jordan Wilson :English :Estonian
+ :Patryk Wojcik :Polish :Ukranian
+ :Luís del Bosch :Spanish :Ukranian
+ :Toni Eklund :Finnish :French
+ :Jaanus Lipp :Estonian :English
+ :Jakub Pleśniak :Polish :Russian
+ :Christopher Moreno :English :Finnish
+ :Diane Laine-Guillaume :French :Estonian
+ :Paloma Angeli :Italian :Ukranian
+ :Soledad Nieves Alcántara Olmedo :Spanish :Finnish
+ :Аніта Кибкало :Ukranian :Italian
+ :Jamie King :English :Russian
+ :Юстим Дейнека :Ukranian :Polish
+ :Tõnu Kiik :Estonian :English
+ :Aleksandra Konovalov :Estonian :Italian
+ :Kenneth Mcbride :English :Polish
+ :Кононова Екатерина Болеславовна :Russian :Estonian
+ :Terri Williams :English :Finnish
+ :Тихонов Родион Глебович :Russian :Finnish
+ :Johanna Koskela :Finnish :Ukranian
+ :William Morin :French :English
+ :Тарас Акименко :Ukranian :Russian
+ :Nikolai Lukin :Estonian :Polish
+ :Stephanie Clark :English :Ukranian
+ :Dott. Gianluca Barbarigo :Italian :French
+ :Константинов Аполлинарий Гурьевич :Russian :English
+ :David Petit-Vasseur :French :Ukranian
+ :Diana Palm :Estonian :Ukranian
+ :Галкин Юлий Архипович :Russian :English
+ :Костина Агата Станиславовна :Russian :Spanish
+ :Жданова Татьяна Рубеновна :Russian :Spanish
+ :Mieszko Kapinos :Polish :French
+ :Маслов Адам Давыдович :Russian :Finnish
+ :Giulietta Callegari :Italian :Spanish
+ :David Portillo Marín :Spanish :Italian
+ :Лаврентьев Евграф Фокич :Russian :Estonian
+ :Fernando Pérez Garrido :Spanish :English
+ :Aki Honkanen :Finnish :Russian
+ :Rein Rohtla :Estonian :Ukranian
+ :Jose Manuel Vicente Antón Coronado :Spanish :Ukranian
+ :Дроздова Валерия Макаровна :Russian :Finnish
+ :Natan Cuch :Polish :Ukranian
+ :Mirko Bevilacqua-Zola :Italian :Polish
+ :Renée Buisson :French :Italian
+ :Рогова Екатерина Максимовна :Russian :English
+ :Максимова Марина Никифоровна :Russian :Italian
+ :Leonard Skolik :Polish :Estonian
+ :pan Alex Sornat :Polish :French
+ :Еріка Литвиненко :Ukranian :Finnish
+ :Сніжана Балабан :Ukranian :English
+ :Eliza Styrna :Polish :Finnish
+ :Прохір Бабариченко :Ukranian :Italian
+ :пан Богуслав Бабій :Ukranian :Polish
+ :Josep de Elorza :Spanish :Ukranian
+ :Rauno Voutilainen :Finnish :Ukranian
+ :Anna Tamm :Estonian :Italian
+ :Григорій Рубець :Ukranian :Italian
+ :Лапин Илья Андреевич :Russian :Ukranian
+ :Роман Байрак :Ukranian :French
+ :Dott. Daniele Asmundo :Italian :English
+ :Atenulf Majorana :Italian :Russian
+ :Tõnu Karro :Estonian :Russian
+ :Jukka Koskela :Finnish :French
+ :Szymon Prokopczuk :Polish :English
+ :Рогов Потап Ефстафьевич :Russian :French
+ :Tarmo Leppik :Estonian :Russian
+ :Rolando Battisti-Ceschi :Italian :English
+ :Lamberto Giannelli :Italian :French
+ :April Lloyd :English :Polish
+ :Briana Hernandez :English :Polish
+ :Leevi Rauhala :Finnish :French
+ :Jason Lane :English :Ukranian
+ :Аврелій Зінчук :Ukranian :Estonian
+ :Ritva Kangas :Finnish :Russian
+ :Lucia Borromeo :Italian :Polish
+ :Jeanette Thomas :English :Estonian
+ :Ülle Alas :Estonian :Polish
+ :Maria Acerbi :Italian :Finnish
+ :Angela Dávila Arellano :Spanish :Polish
+ :Бирюков Иосиф Харламович :Russian :Spanish
+ :Sig.ra Rossana Tirabassi :Italian :Russian
+ :Bianka Domek :Polish :English
+ :Ryan Hall :English :Spanish
+ :Адам Скоробогатько :Ukranian :Italian
+ :Панов Лавр Давыдович :Russian :Polish
+ :Маслова Ульяна Романовна :Russian :Estonian
+ :Gianmarco Pininfarina :Italian :Spanish
+ :Dorothy Jacobson :English :Spanish
+ :Моисеева Ульяна Тимуровна :Russian :Finnish
+ :Laura Parts :Estonian :French
+ :Russell Sanders :English :Spanish
+ :Merja Heino-Manninen :Finnish :Russian
+ :Maura Cagnotto-Asprucci :Italian :Polish
+ :Kurt Davenport :English :French
+ :Леопольд Каденюк :Ukranian :Polish
+ :Angela Virginia Arregui Escamilla :Spanish :Italian
+ :Тереза Бабʼюк :Ukranian :Spanish
+ :Вишняков Онуфрий Гордеевич :Russian :Spanish
+ :Ярослав Романенко :Ukranian :Spanish
+ :Audrey Leduc :French :English
+ :Дроздов Алексей Абрамович :Russian :Polish
+ :Elżbieta Mikosz :Polish :Ukranian
+ :Dolores Carreras Arnal :Spanish :Finnish
+ :Benjamin Guillou :French :Russian
+ :Gelsomina Paruta :Italian :Russian
+ :Klara Ciesielczyk :Polish :Russian
+ :Peeter Saul :Estonian :Italian
+ :Баранова Дарья Ильинична :Russian :French
+ :Афанасьева Наталья Богдановна :Russian :English
+ :Орест Бабенко :Ukranian :Italian
+ :Augustin Gilbert :French :Ukranian
+ :Ewelina Stelmasiak :Polish :French
+ :Irina Sokolov :Estonian :French
+ :Patrick Le Gomez :French :Ukranian
+ :Альбіна Скоробогатько :Ukranian :Estonian
+ :Madeline Allen :English :French
+ :Aki Kokko :Finnish :Ukranian
+ :Aleksanteri Suominen-Reinikainen :Finnish :Spanish
+ :Josefa Ferrández :Spanish :Russian
+ :Волков Климент Германович :Russian :Estonian
+ :Troy Saunders DVM :English :Finnish
+ :Альбіна Кабалюк :Ukranian :Polish
+ :Adrianna Pochroń :Polish :French
+ :Josefina Mireia Ferrero Alegre :Spanish :Russian
+ :Giosuè Peranda :Italian :English
+ :пан Юстим Барабаш :Ukranian :Russian
+ :Paul Chartier :French :Finnish
+ :Bertrand du Blin :French :Italian
+ :Блохина Ульяна Владиславовна :Russian :Finnish
+ :Rita Ferragni-Gucci :Italian :Estonian
+ :Luz Alegre Belda :Spanish :Polish
+ :Monika Pyc :Polish :Finnish
+ :Tracy Wallace :English :French
+ :Karol Zacharczuk :Polish :Estonian
+ :Rafał Miksza :Polish :Ukranian
+ :Dott. Pierangelo Aporti :Italian :English
+ :Grzegorz Kosowicz :Polish :Finnish
+ :pan Marek Feluś :Polish :Estonian
+ :Святослава Верхола :Ukranian :Italian
+ :Hannele Jääskeläinen :Finnish :English
+ :Théodore Roy :French :Ukranian
+ :Priit Kuningas :Estonian :Polish
+ :Mihkel Tilk :Estonian :English
+ :Dott. Lidia Praga :Italian :English
+ :Paula Barbero Rincón :Spanish :French
+ :Josefa Ángeles Gaya Agustín :Spanish :Russian
+ :Emilio Vila Fuertes :Spanish :French
+ :James Pittman :English :Estonian
+ :Sara Acevedo-Mariscal :Spanish :Italian
+ :Maria Miller :Estonian :Polish
+ :Julita Waloch :Polish :English
+ :Сафонова Фёкла Болеславовна :Russian :Finnish
+ :Aino Luik :Estonian :English
+ :Cecilia Petrassi :Italian :Spanish
+ :Timothy Clarke :English :Spanish
+ :Dariusz Fijoł :Polish :English
+ :Luc Lejeune :French :Estonian
+ :Kadri Kozlov :Estonian :Polish
+ :Rita Toselli  :Italian :French
+ :Смирнов Яков Германович :Russian :Ukranian
+ :Nataniel Tryc :Polish :Italian
+ :Tuula Järvinen :Finnish :Ukranian
+ :Eva Santana-Valentín :Spanish :Italian
+ :Tamara Kulikov :Estonian :Polish
+ :Gilbert Pons :French :Polish
+ :Megan Johnson :English :Italian
+ :Kauko Juvonen :Finnish :Ukranian
+ :Jesse Hakkarainen :Finnish :Estonian
+ :Vicenta Girona Domínguez :Spanish :Ukranian
+ :Nina Dmitriev :Estonian :English
+ :Auguste-David Dumont :French :Estonian
+ :Błażej Kuszyk :Polish :Italian
+ :Aleksander Taciak :Polish :English
+ :Kristiina Mäki :Finnish :French
+ :Куликов Савва Геннадиевич :Russian :Polish
+ :Nath-Emmanuelle Peltier :French :English
+ :Philippine Joseph :French :Ukranian
+ :Maks Kontny :Polish :Ukranian
+ :Maria Pitkänen :Finnish :Estonian
+ :Максимов Добромысл Авдеевич :Russian :Polish
+ :Bruce Brown :English :Russian
+ :Tristan Boucher :French :Estonian
+ :Анжела Юхименко :Ukranian :Estonian
+ :пані Юстина Микитюк :Ukranian :Spanish
+ :Michael Maldonado :English :Ukranian
+ :Марта Данилюк :Ukranian :Italian
+ :Lidia Zanzi-Alonzi :Italian :English
+ :Амалія Чекалюк :Ukranian :Russian
+ :Amy Taylor :English :French
+ :Francisco Jose Alcántara :Spanish :French
+ :Сысоев Серафим Валерианович :Russian :Finnish
+ :Святослав Ящук :Ukranian :Italian
+ :Leon Parda :Polish :English
+ :Indrek Lumiste :Estonian :Polish
+ :Anniina Leinonen :Finnish :Russian
+ :Sébastien Bonnet :French :Estonian
+ :Franciszek Goworek :Polish :Spanish
+ :Henriette Parent :French :Polish
+ :Денисов Варфоломей Захарьевич :Russian :Polish
+ :Kajetan Miechowicz :Polish :Finnish
+ :Denise Gay :French :Estonian
+ :Цветкова Нинель Петровна :Russian :Spanish
+ :Amalia Volterra  :Italian :Ukranian
+ :Kimberly Hunt :English :Italian
+ :Kaarina Kämäräinen :Finnish :Estonian
+ :Theresa Mcclain :English :Russian
+ :Massimiliano Gibilisco :Italian :Ukranian
+ :Zacharie-Éric Gros :French :Ukranian
+ :Маруся Пустовіт :Ukranian :English
+ :Erik Peltonen :Finnish :Spanish
+ :Miika Jussila-Lindström :Finnish :French
+ :Hannele Pekkarinen :Finnish :French
+ :Wojciech Micał :Polish :Estonian
+ :pan Aleksander Bzymek :Polish :Ukranian
+ :Trinidad Olga Lluch Batalla :Spanish :Finnish
+ :David Rodríguez :Spanish :Polish
+ :Martino Ramazzotti  :Italian :English
+ :Linda Arula :Estonian :Russian
+ :Olga Bixio  :Italian :Polish
+ :Dale Allen :English :Spanish
+ :Samuel del Mateu :Spanish :English
+ :pani Marika Dreszer :Polish :French
+ :Emilio Rosmini :Italian :English
+ :Teresa Moore :English :Spanish
+ :Максим Безбородьки :Ukranian :Spanish
+ :Marcel Le Diaz :French :Ukranian
+ :Alba García Cerdá :Spanish :French
+ :Адам Корбут :Ukranian :English
+ :пан Назар Бездітко :Ukranian :Estonian
+ :Priit Lääne :Estonian :Russian
+ :Sebastian Mikkonen :Finnish :Italian
+ :Martina Porcellato :Italian :Estonian
+ :Indrek Kalda :Estonian :English
+ :Sig. Danilo Maderna :Italian :Estonian
+ :Patrick Chauveau :French :Polish
+ :Concepción Julia Moraleda Cuéllar :Spanish :Russian
+ :Мельникова София Афанасьевна :Russian :Estonian
+ :Raivo Villemson :Estonian :Russian
+ :Tobiasz Wojewódka :Polish :Estonian
+ :Reet Palu :Estonian :Russian
+ :Стефан Безбородько :Ukranian :French
+ :Стрелкова Оксана Артемовна :Russian :Spanish
+ :Louise Brunel :French :Ukranian
+ :Donna Johnston :English :Italian
+ :Vincenza Romiti  :Italian :Finnish
+ :Kamila Bzymek :Polish :Ukranian
+ :Amico Broggini :Italian :English
+ :Andrés Bilbao-Segura :Spanish :French
+ :Роксолана Сірко :Ukranian :Spanish
+ :Vello Valge :Estonian :English
+ :Juhani Juntunen-Moilanen :Finnish :English
+ :Anna-Liisa Lepistö :Finnish :English
+ :Cassandra Mondadori :Italian :Spanish
+ :Liliana Flaiano :Italian :Ukranian
+ :Patryk Białach :Polish :English
+ :Urmas Kivistik :Estonian :Ukranian
+ :Kalle Suominen :Finnish :Polish
+ :Сергеева Елена Игоревна :Russian :Spanish
+ :Maurizio Bruno :Italian :English
+ :Massimiliano Boito-Serlupi :Italian :Ukranian
+ :Ljudmila Kulikov :Estonian :Polish
+ :Noël-Jules Gaillard :French :Estonian
+ :Amanda Murphy :English :French
+ :Anna Lebedev :Estonian :Russian
+ :Михеева Зинаида Юрьевна :Russian :Italian
+ :Дмитриева Прасковья Мироновна :Russian :Estonian
+ :Оксана Засенко :Ukranian :English
+ :David Pina Julián :Spanish :Italian
+ :Triin Lääts :Estonian :Ukranian
+ :Viktoria Danilov :Estonian :English
+ :Gaja Szpila :Polish :Finnish
+ :John Brown :English :Estonian
+ :Felix Sabater Viñas :Spanish :Estonian
+ :Rachel Hill :English :Italian
+ :Jelena Panov :Estonian :French
+ :Szymon Rycerz :Polish :Spanish
+ :Alan Ważna :Polish :Spanish
+ :Kristjan Kelder :Estonian :Finnish
+ :Сысоев Натан Захарьевич :Russian :Finnish
+ :Felipe Soler Hidalgo :Spanish :Estonian
+ :Franciszek Indyka :Polish :English
+ :Mar Bauzà-Roca :Spanish :Italian
+ :Blanca Ángeles Ugarte Torralba :Spanish :Ukranian
+ :Нестор Лисенко :Ukranian :Polish
+ :Benoît Valentin :French :Spanish
+ :Sirje Müürsepp :Estonian :Ukranian
+ :Luís del Galan :Spanish :Estonian
+ :Artur Žukov :Estonian :Russian
+ :пан Іван Романець :Ukranian :English
+ :Roland-Alexandre Lebrun :French :Spanish
+ :Ростислав Дзиндра :Ukranian :Italian
+ :Andrei Lebedev :Estonian :Ukranian
+ :Ada Glonek :Polish :Spanish
+ :Олекса Тихий :Ukranian :French
+ :Anneli Kriisa :Estonian :Italian
+ :Nela Ochnik :Polish :Finnish
+ :Amy Nguyen :English :French
+ :Esko Nieminen :Finnish :Russian
+ :Raquel Cuesta :Spanish :Estonian
+ :Петрова Нинель Руслановна :Russian :Ukranian
+ :Laurence Valentin :French :Russian
+ :pani Gaja Waloszczyk :Polish :English
+ :Julien Vaillant-Gimenez :French :Finnish
+ :Sole Garibaldi-Moccia :Italian :Ukranian
+ :Селезнева Алла Рудольфовна :Russian :Ukranian
+ :pani Adrianna Bulczak :Polish :Ukranian
+ :Tammy Davis :English :French
+ :Мишин Юлий Иосифович :Russian :Spanish
+ :Austin Hunter :English :Estonian
+ :Marc-Robert Perrot :French :Finnish
+ :Melania Pisacane :Italian :Ukranian
+ :Jerry Snyder :English :Polish
+ :Iwo Łukasz :Polish :Ukranian
+ :pani Anna Maria Nabiałek :Polish :Russian
+ :Тереза Щорс :Ukranian :Russian
+ :Jüri Mürk :Estonian :Finnish
+ :Asunción de Solano :Spanish :Ukranian
+ :Thomas Smith :English :Russian
+ :Lourdes Puga Dominguez :Spanish :Polish
+ :Elina Heikkilä :Finnish :Estonian
+ :Mihkel Tooming :Estonian :Russian
+ :Гущина Лора Макаровна :Russian :English
+ :Mariusz Kabala :Polish :Ukranian
+ :Giustino Borromini  :Italian :English
+ :Aleksander Kolesnik :Estonian :English
+ :Ilona Koskinen :Finnish :Polish
+ :Jennifer Mcgee MD :English :Polish
+ :Iiris Hietala :Finnish :Italian
+ :Laurent du Lemaire :French :English
+ :Колобов Алексей Фадеевич :Russian :French
+ :Suzanne Guillon :French :Finnish
+ :Панфилова Алла Владимировна :Russian :Estonian
+ :Виноградов Ираклий Елисеевич :Russian :French
+ :Francisco Javier Óscar Cerdán Castell :Spanish :Polish
+ :Ольга Дейнеко :Ukranian :Italian
+ :Jan Kosak :Polish :Russian
+ :Andrea Flores Molina :Spanish :Ukranian
+ :Casey Hamilton :English :Russian
+ :pan Karol Fechner :Polish :Ukranian
+ :Martino Raurica :Italian :Russian
+ :Jelena Kozlov :Estonian :Italian
+ :Tatiana Dibiasi :Italian :Finnish
+ :Горбунов Глеб Теймуразович :Russian :Ukranian
+ :Bianca Rastelli :Italian :English
+ :Станіслав Медведенко :Ukranian :Polish
+ :Terttu Timonen :Finnish :French
+ :Dawid Bieniak :Polish :Spanish
+ :Наумов Фома Чеславович :Russian :Finnish
+ :Graziella Gianetti  :Italian :Polish
+ :Alberto Leon :Spanish :Russian
+ :Рожков Панфил Матвеевич :Russian :Polish
+ :Ülle Põder :Estonian :Spanish
+ :Melissa Gilmore :English :Russian
+ :Ершов Любомир Архипович :Russian :Spanish
+ :Терентьева Евдокия Степановна :Russian :Ukranian
+ :Marko Kallaste :Estonian :French
+ :Michael Carter :English :Italian
+ :Tomasz Baumgart :Polish :French
+ :Bertrand Riou :French :English
+ :Teuvo Laukkanen-Vainio :Finnish :Russian
+ :Герман  Даньків :Ukranian :Spanish
+ :Johanna Mäkinen :Finnish :Polish
+ :Петро Худобʼяк :Ukranian :Italian
+ :Ramon Baeza Arnaiz :Spanish :Italian
+ :pani Anna Maria Mikoda :Polish :Spanish
+ :Sig.ra Valentina Munari :Italian :Polish
+ :Tatiana Petrov :Estonian :English
+ :Jason Martin :English :Spanish
+ :Adam Fry :English :Estonian
+ :Mar Palmer Gallo :Spanish :Polish
+ :Андреев Федосий Якубович :Russian :Finnish
+ :Evangelista Tiepolo :Italian :Russian
+ :Dante Tiepolo  :Italian :Spanish
+ :Antonia Julia Ribas Casas :Spanish :English
+ :Нестор Пелех :Ukranian :French
+ :Heather Wall :English :Ukranian
+ :Jorge de Roura :Spanish :French
+ :Piret Silm :Estonian :Russian
+ :Jüri Lumiste :Estonian :Russian
+ :Tatjana Aleksandrov :Estonian :Spanish
