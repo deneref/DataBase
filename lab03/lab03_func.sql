@@ -15,10 +15,7 @@ GO
 GO
 
 --подставляемая табличная функция
-if OBJECT_ID(N'get_country_uni', N'IF') is not NULL
-	drop function get_country_uni
-GO
-create function dbo.get_country_uni(@country varchar(32)) returns table as
+create or alter function dbo.get_country_uni(@country varchar(32)) returns table as
 return
 	(
 		select NameUni, exch.cost
@@ -31,10 +28,7 @@ select * from dbo.get_country_uni('Russia')
 GO 
 
 --многооператорная табличная функция
-if OBJECT_ID(N'get_students', N'FN') is not NULL
-	drop function get_students
-GO
-create function dbo.get_students(@country varchar(32))
+create or alter function dbo.get_students(@country varchar(32))
 returns @studentsByCountry table 
 (
 	NameStudent varchar(100),
@@ -53,27 +47,29 @@ select * from dbo.get_students('Estonia')
 GO
 
 --Рекурсивная функция
-CREATE FUNCTION dbo.CalculateFactorial1 (@n int = 1) RETURNS float
-WITH RETURNS NULL ON NULL INPUT
-AS
-BEGIN
-      DECLARE @result float;
-        SET @result = NULL;
-    IF @n > 0 BEGIN
-            SET @result = 1.0;
-            WITH Numbers (num)
-            AS
+create or alter function dbo.CalculateFactorial1 (@n int = 1) returns int
+with returns null on null input
+as
+begin
+        declare @result int;
+        set @result = NULL;
+		if @n > 0 
+		begin
+            set @result = 1;
+            with Numbers (num)
+            as
             (
-                  SELECT 1
-                  UNION ALL
-                  SELECT num + 1
-                  FROM Numbers
-                  WHERE num < @n
+                  select 1
+                  union all
+                  select num + 1
+                  from Numbers
+                  where num < @n
             )
-            SELECT @result = @result * num
-            FROM Numbers;
-END;
-      RETURN @result;
-END;
+			select @result = @result * num
+			from Numbers;
+		
+		end;
+      return @result;
+end;
 GO
-SELECT dbo.CalculateFactorial1 (6);
+select dbo.CalculateFactorial1 (6) as 'Факториал';

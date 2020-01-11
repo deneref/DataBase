@@ -27,3 +27,13 @@ return
 end
 go
 insert into exch values(100,100,100,100)
+go
+create trigger show_change on exch
+after update as
+	select *
+	from deleted as d join inserted as i on i.idSt = d.idSt
+
+update exch set cost = 1001 
+where idSt = 1
+
+

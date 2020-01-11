@@ -1,0 +1,10 @@
+:one_c:shok:delish
+:two_c:marm:delish_1
+:three_c:water:delish_2
+:four_c:dirt:delish_3
+:five_c:duck:delish_4
+:six_c:meat:delish_5
+:seven_c:cook:delish_6
+:eight_c:beton:delish_7
+:nine_c:onion:delish_8
+:ten_c:chicken:delish_9

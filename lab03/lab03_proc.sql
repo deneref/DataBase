@@ -1,21 +1,12 @@
 --хранимая процедура без параметров
-if OBJECT_ID (N'dbo.SelectRussians', 'P') is not null
-	drop procedure dbo.SelectRussians
-go
-create procedure dbo.SelectRussians @amount int output as
+create or alter procedure dbo.SelectRussians as
 begin
-	select NLanguage
+	select NameSt
 	from stud
 	where NLanguage = 'Russian'
-	Set @amount = @@ROWCOUNT
-Return (select avg(cost) from stud join exch on exch.idSt = stud.idSt)
 end
 go
-
-declare @outParm int, @retVal int
-exec @retVal = dbo.SelectRussians @OutParm OUTPUT
-select @outParm "Количество русских", @retVal "Средняя цена обучения для них"
-
+exec SelectRussians
 --рекурсивная функция
 go
 create or alter procedure dbo.Recursion(@id int = 1)
@@ -68,3 +59,13 @@ select * from stud join exch on stud.idSt = exch.idSt where NLanguage = 'Spanish
 exec increase_cost @target_l = 100, @target_h = 1000;
 select * from #spanish
 
+go
+--процедура доступа к метаданным
+create or alter procedure ScalarShow as
+begin
+	select distinct sys.objects.object_id
+	from sys.objects join sys.parameters 
+	on sys.objects.object_id = sys.parameters.object_id
+	where [type] = 'FN'
+end
+exec ScalarShow

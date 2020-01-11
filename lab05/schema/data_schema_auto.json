@@ -1,0 +1,90 @@
+ {
+   "definitions": {},
+   "$schema": "http://json-schema.org/draft-07/schema#",
+   "$id": "http://example.com/root.json",
+   "type": "object",
+   "title": "The Root Schema",
+   "required": [
+     "Logistic"
+   ],
+   "properties": {
+     "Logistic": {
+       "$id": "#/properties/Logistic",
+       "type": "array",
+       "title": "The Logistic Schema",
+       "items": {
+         "$id": "#/properties/Logistic/items",
+         "type": "object",
+         "title": "The Items Schema",
+         "required": [
+           "car",
+           "track"
+         ],
+         "properties": {
+           "car": {
+             "$id": "#/properties/Logistic/items/properties/car",
+             "type": "object",
+             "title": "The Car Schema",
+             "required": [
+               "client",
+               "date"
+             ],
+             "properties": {
+               "client": {
+                 "$id": "#/properties/Logistic/items/properties/car/properties/client",
+                 "type": "string",
+                 "title": "The Client Schema",
+                 "default": "",
+                 "examples": [
+                   "Greg"
+                 ],
+                 "pattern": "^(.*)$"
+               },
+               "date": {
+                 "$id": "#/properties/Logistic/items/properties/car/properties/date",
+                 "type": "string",
+                 "title": "The Date Schema",
+                 "default": "",
+                 "examples": [
+                   "2019-05-31T00:00:00"
+                 ],
+                 "pattern": "^(.*)$"
+               }
+             }
+           },
+           "track": {
+             "$id": "#/properties/Logistic/items/properties/track",
+             "type": "object",
+             "title": "The Track Schema",
+             "required": [
+               "cargo",
+               "date"
+             ],
+             "properties": {
+               "cargo": {
+                 "$id": "#/properties/Logistic/items/properties/track/properties/cargo",
+                 "type": "string",
+                 "title": "The Cargo Schema",
+                 "default": "",
+                 "examples": [
+                   "Wood"
+                 ],
+                 "pattern": "^(.*)$"
+               },
+               "date": {
+                 "$id": "#/properties/Logistic/items/properties/track/properties/date",
+                 "type": "string",
+                 "title": "The Date Schema",
+                 "default": "",
+                 "examples": [
+                   "2015-05-26T00:35:00"
+                 ],
+                 "pattern": "^(.*)$"
+               }
+             }
+           }
+         }
+       }
+     }
+   }
+ }

@@ -1,0 +1,10 @@
+:one_c:america:5
+:two_c:russia:2
+:three_c:spain:2
+:four_c:spain:1
+:five_c:russia:9
+:one_c:russia:3
+:one_c:america:3
+:two_c:america:3
+:four_c:spain:4
+:one_c:america:5

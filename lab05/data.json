@@ -1,0 +1,29 @@
+{
+	"Logistic":
+	[
+		{
+			"car":
+			{
+				"client": "Greg",
+				"date": "2019-05-31T00:00:00"
+			},
+			"track":
+			{
+				"cargo": "Wood",
+				"date": "2015-05-26T00:35:00"
+			}
+		},
+		{
+			"car":
+			{
+				"client": "Anna",
+				"date": "2019-03-12T04:15:23"
+			},
+			"track":
+			{
+				"cargo": "Glass",
+				"date": "2019-11-12T05:13:21"
+			}
+		}
+	]
+}
