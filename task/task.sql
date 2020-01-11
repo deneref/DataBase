@@ -67,8 +67,9 @@ insert @cur(atid, pid, adate) select atid, pid, adate from pabsent group by atid
 select * from @cur order by adate
 
 go
+--ÑĞÅÀÒÅ ÔÓÍÊÒÈÎÍ
 create function dbo.get_abs()
-returns @ret table(atid int, pid int, adate date)  as 
+returns @ret table(atid int, pid int, adate date, retdate date)  as 
 begin
 --tmp table
 declare @cur table(atid int, pid int, adate date)
@@ -89,10 +90,20 @@ begin
 			
 			if (not exists(select adate from @cur where adate = DATEADD(day, 1, @adate) and atid = @atid and pid = @pid)) or
 			not exists (select adate from @cur where adate = DATEADD(day, -1, @adate) and atid = @atid and pid = @pid)
-			or ((not exists(select adate from @cur where adate = DATEADD(day, 1, @adate) and atid = @atid and pid = @pid)) and
+			begin	
+				if not exists(select adate from @cur where adate = DATEADD(day, -1, @adate) and atid = @atid and pid = @pid)
+				begin
+					insert into @ret values(@atid, @pid, @adate, @adate)
+				end
+				else if not exists(select adate from @cur where adate = DATEADD(day, 1, @adate) and atid = @atid and pid = @pid)
+				begin 
+					update @ret set retdate = @adate where atid = @atid and pid = @pid
+				end
+			end
+			else if ((not exists(select adate from @cur where adate = DATEADD(day, 1, @adate) and atid = @atid and pid = @pid)) and
 			not exists (select adate from @cur where adate = DATEADD(day, -1, @adate) and atid = @atid and pid = @pid))
 			begin 
-				insert into @ret values(@atid, @pid, @adate)
+				insert into @ret values(@atid, @pid, @adate, @adate)
 			end
 			fetch next from @cursor into @atid, @pid, @adate
 		end
@@ -100,8 +111,8 @@ end
 return 
 end
 go
-drop function dbo.get_abs
 
+drop function dbo.get_abs
 
 declare @cur table(atid int, pid int, adate date)
 insert @cur(atid, pid, adate) select atid, pid, adate from pabsent group by atid, pid, adate
