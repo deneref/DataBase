@@ -74,8 +74,6 @@ begin
 --tmp table
 declare @cur table(atid int, pid int, adate date)
 insert @cur(atid, pid, adate) select atid, pid, adate from pabsent group by atid, pid, adate
---for every person
-declare @lenpers int = (select count(pid) from @cur)
 --declate cursor
 declare @atid int
 declare @pid int
@@ -87,7 +85,7 @@ begin
 	fetch next from @cursor into @atid, @pid, @adate
 		while @@FETCH_STATUS = 0
 		begin
-			
+			--Проверяем, являются ли даты пограничными
 			if (not exists(select adate from @cur where adate = DATEADD(day, 1, @adate) and atid = @atid and pid = @pid)) or
 			not exists (select adate from @cur where adate = DATEADD(day, -1, @adate) and atid = @atid and pid = @pid)
 			begin	
@@ -95,15 +93,11 @@ begin
 				begin
 					insert into @ret values(@atid, @pid, @adate, @adate)
 				end
+				--дата конца прогулов
 				else if not exists(select adate from @cur where adate = DATEADD(day, 1, @adate) and atid = @atid and pid = @pid)
 				begin 
 					update @ret set retdate = @adate where atid = @atid and pid = @pid
 				end
-			end
-			else if ((not exists(select adate from @cur where adate = DATEADD(day, 1, @adate) and atid = @atid and pid = @pid)) and
-			not exists (select adate from @cur where adate = DATEADD(day, -1, @adate) and atid = @atid and pid = @pid))
-			begin 
-				insert into @ret values(@atid, @pid, @adate, @adate)
 			end
 			fetch next from @cursor into @atid, @pid, @adate
 		end
