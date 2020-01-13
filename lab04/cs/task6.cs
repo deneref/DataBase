@@ -32,10 +32,7 @@ public struct Point : INullable
     }  
 	
     public override string ToString()  
-    {  
-        // Since InvokeIfReceiverIsNull defaults to 'true'  
-        // this test is unneccesary if Point is only being called  
-        // from SQL.  
+    {    
         if (this.IsNull)  
             return "NULL";  
         else  
@@ -50,9 +47,7 @@ public struct Point : INullable
   
     [SqlMethod(OnNullCall = false)]  
     public static Point Parse(SqlString s)  
-    {  
-        // With OnNullCall=false, this check is unnecessary if   
-        // Point only called from SQL.  
+    {    
         if (s.IsNull)  
             return Null;  
   
@@ -114,21 +109,4 @@ public struct Point : INullable
         }  
     }  
    
-    [SqlMethod(OnNullCall = false)]  
-    public Double Distance()  
-    {  
-        return DistanceFromXY(0, 0);  
-    }  
-  
-    [SqlMethod(OnNullCall = false)]  
-    public Double DistanceFrom(Point pFrom)  
-    {  
-        return DistanceFromXY(pFrom.X, pFrom.Y);  
-    }  
-  
-    [SqlMethod(OnNullCall = false)]  
-    public Double DistanceFromXY(Int32 iX, Int32 iY)  
-    {  
-        return Math.Sqrt(Math.Pow(iX - _x, 2.0) + Math.Pow(iY - _y, 2.0));  
-    }  
 }  

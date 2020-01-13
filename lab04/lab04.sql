@@ -108,4 +108,4 @@ VALUES('0,0'),
 	  ('5,6')
 GO
 
-select point.ToString() from Points
+select point.ToString() as Points from Points
