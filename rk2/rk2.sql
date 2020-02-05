@@ -65,12 +65,22 @@ insert person values ('Ада', '01.01.1981', 23, '555-341-32')
 insert person values ('Даня', '01.01.1982', 54, '555-341-32')
 insert person values ('Руслан', '01.01.1983', 15, '555-341-32')
 insert person values ('Костя', '01.01.1984', 523, '555-341-32')
-insert person values ('Ваня1', '01.01.1985', 52, '555-341-32')
-insert person values ('Ваня2', '01.01.1986', 56, '555-341-32')
+insert person values ('Ваня', '01.01.1985', 56, '555-341-32')
+insert person values ('Ваня', '01.01.1985', 56, '555-341-32')
 insert person values ('Ваня3', '01.01.1987', 57, '555-341-32')
 insert person values ('Ваня4', '01.01.1988', 58, '555-341-32')
 
+select count(*) - (select count(*) as a from 
+(select distinct *  from mytable) as s) as dupl from mytable
 
+select count(*) as a from 
+(select distinct *  from person) as s
+
+select *,
+          row_number() over (partition by all) as row_number
+   from person
+
+go
 insert hire values ('Саня', '01.01.1980', 5, '555-341-25')
 insert hire values ('Валя', '01.01.1981', 57, '565-371-32')
 insert hire values ('Галя', '01.01.1982', 53, '555-240-32')
